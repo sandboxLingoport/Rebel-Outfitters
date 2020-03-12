@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--BBMSPortal_1_31 - FULL-FILE-->
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"></xsd:import>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="type" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="mimetype" type="xsd:string"></xsd:attribute>
+              <xsd:attribute ref="xml:space"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="name" type="xsd:string"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" msdata:Ordinal="1" type="xsd:string"></xsd:element>
+                <xsd:element minOccurs="0" name="comment" msdata:Ordinal="2" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" msdata:Ordinal="1" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="type" msdata:Ordinal="3" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="mimetype" msdata:Ordinal="4" type="xsd:string"></xsd:attribute>
+              <xsd:attribute ref="xml:space"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" msdata:Ordinal="1" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" type="xsd:string"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Address" xml:space="preserve">
+    <value>&amp;#917564;地址&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917552;&amp;#917561;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="AVSFull" xml:space="preserve">
+    <value>&amp;#917564;满&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917553;&amp;#917552;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="AVSLight" xml:space="preserve">
+    <value>&amp;#917564;光&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917553;&amp;#917553;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="AVSMedium" xml:space="preserve">
+    <value>&amp;#917564;中等&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917553;&amp;#917554;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="AVSNone" xml:space="preserve">
+    <value>&amp;#917564;没有&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917553;&amp;#917555;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="City" xml:space="preserve">
+    <value>&amp;#917564;城市&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917553;&amp;#917556;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CSCFull" xml:space="preserve">
+    <value>&amp;#917564;满&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917553;&amp;#917557;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CSCLight" xml:space="preserve">
+    <value>&amp;#917564;光&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917553;&amp;#917558;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CSCNone" xml:space="preserve">
+    <value>&amp;#917564;没有&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917553;&amp;#917559;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ProcessModeDemo" xml:space="preserve">
+    <value>&amp;#917564;演示&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917553;&amp;#917560;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ProcessModeLive" xml:space="preserve">
+    <value>&amp;#917564;活下去&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917553;&amp;#917561;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ProcessModeTest" xml:space="preserve">
+    <value>&amp;#917564;测试&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917554;&amp;#917552;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="State" xml:space="preserve">
+    <value>&amp;#917564;国家&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917554;&amp;#917553;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ZIP" xml:space="preserve">
+    <value>&amp;#917564;拉链&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917554;&amp;#917554;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="Checking" xml:space="preserve">
+    <value>&amp;#917564;检查&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917554;&amp;#917555;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="Savings" xml:space="preserve">
+    <value>&amp;#917564;节省费用&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917554;&amp;#917556;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINAmex" xml:space="preserve">
+    <value>&amp;#917564;美國運通&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917554;&amp;#917557;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINCarteBlanche" xml:space="preserve">
+    <value>&amp;#917564;全权委托&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917554;&amp;#917558;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINDiners" xml:space="preserve">
+    <value>&amp;#917564;晚餐俱乐部&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917554;&amp;#917559;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINDiscover" xml:space="preserve">
+    <value>&amp;#917564;发现&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917554;&amp;#917560;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINenRoute" xml:space="preserve">
+    <value>&amp;#917564;全貌&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917554;&amp;#917561;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINJCB" xml:space="preserve">
+    <value>&amp;#917564;JCB&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917555;&amp;#917552;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINLaser" xml:space="preserve">
+    <value>&amp;#917564;激光&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917555;&amp;#917553;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINMaestro" xml:space="preserve">
+    <value>&amp;#917564;大师&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917555;&amp;#917554;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINMasterCard" xml:space="preserve">
+    <value>&amp;#917564;万事达卡&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917555;&amp;#917555;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINPayPal" xml:space="preserve">
+    <value>&amp;#917564;贝宝&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917555;&amp;#917556;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINSolo" xml:space="preserve">
+    <value>&amp;#917564;独奏&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917555;&amp;#917557;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINSwitch" xml:space="preserve">
+    <value>&amp;#917564;开关&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917555;&amp;#917558;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINUnknown" xml:space="preserve">
+    <value>&amp;#917564;未知&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917555;&amp;#917559;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINVisa" xml:space="preserve">
+    <value>&amp;#917564;签证&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917555;&amp;#917560;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="IINVisaElectron" xml:space="preserve">
+    <value>&amp;#917564;签证电子&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917555;&amp;#917561;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ResultApproved" xml:space="preserve">
+    <value>&amp;#917564;已批准&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917556;&amp;#917552;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ResultGatewayDeclined" xml:space="preserve">
+    <value>&amp;#917564;网关拒绝&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917556;&amp;#917553;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ResultNotProcessed" xml:space="preserve">
+    <value>&amp;#917564;未处理&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917556;&amp;#917554;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ResultOfflineProcessing" xml:space="preserve">
+    <value>&amp;#917564;离线处理&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917556;&amp;#917555;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ResultProcessingError" xml:space="preserve">
+    <value>&amp;#917564;处理错误&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917556;&amp;#917556;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ResultValidationError" xml:space="preserve">
+    <value>&amp;#917564;验证错误&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917556;&amp;#917557;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="SourceBatch" xml:space="preserve">
+    <value>&amp;#917564;交易批次&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917556;&amp;#917558;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="SourceChargeback" xml:space="preserve">
+    <value>&amp;#917564;信用卡拒付&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917556;&amp;#917559;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="SourceCNP" xml:space="preserve">
+    <value>&amp;#917564;卡片不存在&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917556;&amp;#917560;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="SourceCP" xml:space="preserve">
+    <value>&amp;#917564;卡片礼物&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917556;&amp;#917561;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="SourceOffline" xml:space="preserve">
+    <value>&amp;#917564;离线批处理&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917557;&amp;#917552;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="SourceRefund" xml:space="preserve">
+    <value>&amp;#917564;退款&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917557;&amp;#917553;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="SourceRefundBatch" xml:space="preserve">
+    <value>&amp;#917564;退款批次&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917557;&amp;#917554;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="SourceReverseChargeback" xml:space="preserve">
+    <value>&amp;#917564;反向信用卡拒付&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917557;&amp;#917555;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="NotApplicable" xml:space="preserve">
+    <value>&amp;#917564;N/a&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917557;&amp;#917556;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="TestTransaction" xml:space="preserve">
+    <value>&amp;#917564;测试交易&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917557;&amp;#917557;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="StatusCompleted" xml:space="preserve">
+    <value>&amp;#917564;完成&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917557;&amp;#917558;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="StatusCompletedError" xml:space="preserve">
+    <value>&amp;#917564;完成并出现错误&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917557;&amp;#917559;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="StatusProcessing" xml:space="preserve">
+    <value>&amp;#917564;网关处理&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917557;&amp;#917560;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="StatusProcessingComplete" xml:space="preserve">
+    <value>&amp;#917564;网关处理完成&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917557;&amp;#917561;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="StatusRetrieving" xml:space="preserve">
+    <value>&amp;#917564;从网关检索数据&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917558;&amp;#917552;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="StatusSending" xml:space="preserve">
+    <value>&amp;#917564;将数据发送到网关&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917558;&amp;#917553;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="StatusUpload" xml:space="preserve">
+    <value>&amp;#917564;上传数据&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917558;&amp;#917554;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ACHDelete" xml:space="preserve">
+    <value>&amp;#917564;您确定要删除此帐户吗？&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917558;&amp;#917555;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="Refund" xml:space="preserve">
+    <value>&amp;#917564;退款&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917558;&amp;#917556;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="DailyTransactionRpt_ApprovedOnly" xml:space="preserve">
+    <value>&amp;#917564;仅核准的交易记录&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917558;&amp;#917557;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="DailyTransactionRpt_DeniedOnly" xml:space="preserve">
+    <value>&amp;#917564;仅被拒绝的交易&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917558;&amp;#917558;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ReportCredentialsLoad" xml:space="preserve">
+    <value>&amp;#917564;加载报告服务凭据&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917558;&amp;#917559;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ReportExportPathLoad" xml:space="preserve">
+    <value>&amp;#917564;加载导出报告路径&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917558;&amp;#917560;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="InvalidFieldMsg" xml:space="preserve">
+    <value>&amp;#917564;“{0}” 是无效的 “{1}” 值。&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917558;&amp;#917561;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CCReasonCancelledRecurring" xml:space="preserve">
+    <value>&amp;#917564;为了支持您的挑战，请提供文档作为合同或承诺的记录。&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917559;&amp;#917552;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CCReasonDuplicateTrans" xml:space="preserve">
+    <value>&amp;#917564;为了支持您的质疑，请提供被推定为重复的有效交易记录的屏幕截图。&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917559;&amp;#917553;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CCReasonNonReceipt" xml:space="preserve">
+    <value>&amp;#917564;为了支持您的挑战，请提供文档作为送达确认记录。&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917559;&amp;#917554;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CCReasonSignedSupport" xml:space="preserve">
+    <value>&amp;#917564;为了支持您的质疑，请提供文档作为签名支持的证据，例如认可的收据。&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917559;&amp;#917555;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CCReasonTransNotRecognized" xml:space="preserve">
+    <value>&amp;#917564;为了支持您的挑战，请提供交易记录的屏幕截图。&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917559;&amp;#917556;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CCReasonCreditNotProcessed" xml:space="preserve">
+    <value>&amp;#917564;为了支持您的挑战，请提供文档，说明退款被拒绝的原因。&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917559;&amp;#917557;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CCReasonCreditPrevIssued" xml:space="preserve">
+    <value>&amp;#917564;为了支持您的挑战，请提供已处理退款记录的屏幕截图。&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917559;&amp;#917558;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CCReasonNotAsDescribed" xml:space="preserve">
+    <value>&amp;#917564;为了支持您的挑战，请提供文档，说明持卡人收到的交易作为交易的交换。&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917559;&amp;#917559;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CCReasonOther" xml:space="preserve">
+    <value>&amp;#917564;有关如何对此信用卡拒付提出异议的信息，请通过 chargebacks@blackbaud.com 联系 Blackbaud。&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917559;&amp;#917560;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CCReasonServicesNotRendered" xml:space="preserve">
+    <value>&amp;#917564;为了支持您的质疑，请提供文档作为持卡人同意并使用所收到的服务的证据。&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917559;&amp;#917561;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CCEmptyFiles" xml:space="preserve">
+    <value>&amp;#917564;没有上传文件。&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917560;&amp;#917552;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CCEmptyNotes" xml:space="preserve">
+    <value>&amp;#917564;未输入备注。&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917560;&amp;#917553;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="CCNone" xml:space="preserve">
+    <value>&amp;#917564;没有&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917560;&amp;#917554;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="AccountNumber" xml:space="preserve">
+    <value>&amp;#917564;账号&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917560;&amp;#917555;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="RoutingNumber" xml:space="preserve">
+    <value>&amp;#917564;路由号码&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917560;&amp;#917556;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="Disbursable" xml:space="preserve">
+    <value>&amp;#917564;可支付&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917560;&amp;#917557;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="DoNotDisburse" xml:space="preserve">
+    <value>&amp;#917564;不支付&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917560;&amp;#917558;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="NotDisbursable" xml:space="preserve">
+    <value>&amp;#917564;无法支付&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917560;&amp;#917559;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ChargebackReasonCompliance" xml:space="preserve">
+    <value>&amp;#917564;合规性信用卡拒付&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917560;&amp;#917560;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ChargebackReasonFraud" xml:space="preserve">
+    <value>&amp;#917564;欺诈交易-未经授权&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917560;&amp;#917561;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ChargebackReasonCredit" xml:space="preserve">
+    <value>&amp;#917564;先前发放的款项&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917561;&amp;#917552;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ChargebackReasonCanceled" xml:space="preserve">
+    <value>&amp;#917564;已取消的重复性交易&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917561;&amp;#917553;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ChargebackReasonTransaction" xml:space="preserve">
+    <value>&amp;#917564;未确认交易&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917561;&amp;#917554;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ChargebackReasonCreditNotProcessed" xml:space="preserve">
+    <value>&amp;#917564;未处理款项&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917561;&amp;#917555;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ChargebackReasonDuplicate" xml:space="preserve">
+    <value>&amp;#917564;重复交易（处理）&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917561;&amp;#917556;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ChargebackReasonNonReceipt" xml:space="preserve">
+    <value>&amp;#917564;未收到商品&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917561;&amp;#917557;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ChargebackReasonNotAsDescribed" xml:space="preserve">
+    <value>&amp;#917564;不符合描述&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917561;&amp;#917558;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ChargebackReasonServices" xml:space="preserve">
+    <value>&amp;#917564;未提供的服务&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917561;&amp;#917559;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ChargebackReasonOther" xml:space="preserve">
+    <value>&amp;#917564;其他&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917561;&amp;#917560;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ChargebackChallengeable" xml:space="preserve">
+    <value>&amp;#917564;是&amp;#917568;&amp;#917554;&amp;#917552;&amp;#917561;&amp;#917561;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ChargebackNotChallengeable" xml:space="preserve">
+    <value>&amp;#917564;否&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917552;&amp;#917552;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="StatusOpen" xml:space="preserve">
+    <value>&amp;#917564;打开&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917552;&amp;#917553;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="StatusClosed" xml:space="preserve">
+    <value>&amp;#917564;关闭&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917552;&amp;#917554;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="StatusDisputed" xml:space="preserve">
+    <value>&amp;#917564;有争议&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917552;&amp;#917555;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ResolutionPending" xml:space="preserve">
+    <value>&amp;#917564;待定&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917552;&amp;#917556;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ResolutionDisputed" xml:space="preserve">
+    <value>&amp;#917564;有争议的信用卡拒付&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917552;&amp;#917557;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ResolutionConfirmed" xml:space="preserve">
+    <value>&amp;#917564;已确认的信用卡拒付&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917552;&amp;#917558;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ResultGatewayProcessing" xml:space="preserve">
+    <value>&amp;#917564;网关处理&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917552;&amp;#917559;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="DailyTransactionRpt_CreditCardType" xml:space="preserve">
+    <value>&amp;#917564;账户类型&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917552;&amp;#917560;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_LastMonth" xml:space="preserve">
+    <value>&amp;#917564;上个月&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917552;&amp;#917561;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_LastWeek" xml:space="preserve">
+    <value>&amp;#917564;上周&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917553;&amp;#917552;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_SpecificDate" xml:space="preserve">
+    <value>&amp;#917564;具体日期&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917553;&amp;#917553;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_ThisMonth" xml:space="preserve">
+    <value>&amp;#917564;这个月&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917553;&amp;#917554;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_ThisWeek" xml:space="preserve">
+    <value>&amp;#917564;本周&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917553;&amp;#917555;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_Today" xml:space="preserve">
+    <value>&amp;#917564;今天&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917553;&amp;#917556;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_Yesterday" xml:space="preserve">
+    <value>&amp;#917564;昨天&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917553;&amp;#917557;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="DailyTransactionRpt_TransactionDate" xml:space="preserve">
+    <value>&amp;#917564;交易日期&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917553;&amp;#917558;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="Disbursed" xml:space="preserve">
+    <value>&amp;#917564;已支付&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917553;&amp;#917559;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="AsItHappens" xml:space="preserve">
+    <value>&amp;#917564;因为它发生&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917553;&amp;#917560;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="Daily" xml:space="preserve">
+    <value>&amp;#917564;每日摘要&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917553;&amp;#917561;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="Monthly" xml:space="preserve">
+    <value>&amp;#917564;每月摘要&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917554;&amp;#917552;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="NoNotification" xml:space="preserve">
+    <value>&amp;#917564;无通知&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917554;&amp;#917553;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="Weekly" xml:space="preserve">
+    <value>&amp;#917564;每周摘要&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917554;&amp;#917554;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="EmailNotificationSendEmail" xml:space="preserve">
+    <value>&amp;#917564;发送类型为 {0} 的电子邮件通知（子类型：{1}）&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917554;&amp;#917555;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="EmailReceiptDefaultSubjectText" xml:space="preserve">
+    <value>&amp;#917564;从 {0} 中确认 [总数]&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917554;&amp;#917556;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="PaymentTranReceiptSendEmail" xml:space="preserve">
+    <value>&amp;#917564;为交易 {0} 发送交易确认，具有记录操作参数：到地址 “{1}”，回复地址 “{2}”，主题 “{3}”。对于客户端 “{4}”。&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917554;&amp;#917557;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="SignatureLinkText" xml:space="preserve">
+    <value>&amp;#917564;查看移动签名&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917554;&amp;#917558;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ResultDeclined" xml:space="preserve">
+    <value>&amp;#917564;拒绝&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917554;&amp;#917559;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="Active" xml:space="preserve">
+    <value>&amp;#917564;活跃&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917554;&amp;#917560;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="Suspended" xml:space="preserve">
+    <value>&amp;#917564;暂停&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917554;&amp;#917561;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ACHSuspendedRssGetFeed_Internal" xml:space="preserve">
+    <value>&amp;#917564;获取暂停的付款账户输入数据&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917555;&amp;#917552;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ACHSuspendedRssLoadFeed_Internal" xml:space="preserve">
+    <value>&amp;#917564;加载暂停的付款账户输入数据&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917555;&amp;#917553;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="SourceDirectDebitRefund" xml:space="preserve">
+    <value>&amp;#917564;退款&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917555;&amp;#917554;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="DailyTransactionRpt_PendingOnly" xml:space="preserve">
+    <value>&amp;#917564;仅待处理的交易&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917555;&amp;#917555;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="EmailReceiptDefaultRefundSubjectText" xml:space="preserve">
+    <value>&amp;#917564;从 {0} 确认 [总计] 退款&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917555;&amp;#917556;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="BatchTypeCreditCardBatch" xml:space="preserve">
+    <value>&amp;#917564;信用卡批次&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917555;&amp;#917557;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="BatchTypeCreditCardRefundBatch" xml:space="preserve">
+    <value>&amp;#917564;信用卡退款批次&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917555;&amp;#917558;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="BatchTypeDirectDebitBatch" xml:space="preserve">
+    <value>&amp;#917564;直接借记批次&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917555;&amp;#917559;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="BatchTypeDirectDebitRefundBatch" xml:space="preserve">
+    <value>&amp;#917564;直接借记退款批次&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917555;&amp;#917560;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="Declined" xml:space="preserve">
+    <value>&amp;#917564;拒绝&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917555;&amp;#917561;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="ACHDeclinedRssLoadFeed_Internal" xml:space="preserve">
+    <value>&amp;#917564;加载已拒绝的付款账户输入数据&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917556;&amp;#917552;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="Wallets_All" xml:space="preserve">
+    <value>&amp;#917564;所有钱包&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917556;&amp;#917553;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+  <data name="MandateURL" xml:space="preserve">
+    <value>&amp;#917564;查看预授权借记协议&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917556;&amp;#917554;&amp;#917599;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917566;</value>
+  </data>
+</root>
