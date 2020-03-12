@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--BBMSPortal_1_30 - FULL-FILE-->
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"></xsd:import>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="type" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="mimetype" type="xsd:string"></xsd:attribute>
+              <xsd:attribute ref="xml:space"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="name" type="xsd:string"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" msdata:Ordinal="1" type="xsd:string"></xsd:element>
+                <xsd:element minOccurs="0" name="comment" msdata:Ordinal="2" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" msdata:Ordinal="1" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="type" msdata:Ordinal="3" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="mimetype" msdata:Ordinal="4" type="xsd:string"></xsd:attribute>
+              <xsd:attribute ref="xml:space"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" msdata:Ordinal="1" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" type="xsd:string"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="UsernameAndPasswordRequiredToLogin" xml:space="preserve">
+    <value>Un nom d'utilisateur et un mot de passe sont requis pour vous connecter.</value>
+  </data>
+  <data name="UserRequired" xml:space="preserve">
+    <value>Un nom d'utilisateur et un mot de passe sont requis.</value>
+  </data>
+  <data name="LoginError" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la connexion du client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="LogoutError" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la déconnexion du client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ChangePasswordError" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la modification du mot de passe utilisateur du client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="AccessDenied" xml:space="preserve">
+    <value>Accès refusé.</value>
+  </data>
+  <data name="ContactLoadEdit_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des détails du contact pour la modification pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ContactLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des coordonnées du client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ContactSave_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'enregistrement des détails du contact à modifier pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="CountryFormat_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des formats de pays pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="CountryListLoad_Internal" xml:space="preserve">
+    <value>Erreur lors du chargement des pays pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="StateListLoad_Internal" xml:space="preserve">
+    <value>Erreur lors du chargement des états pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="BBPSCredentialLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des informations d'identification BBPS pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="BBPSPing_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la commande ping de BBPS pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="BBPSSave_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'enregistrement des informations d'identification BBPS pour la modification du client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ACHListLoadList_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de la liste ACH pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ACHLoadEdit_Internal" xml:space="preserve">
+    <value>An error occurred loading ACH record "{2}" for edit for client "{0}".  The error was "{1}".</value>
+  </data>
+  <data name="CurrencyListLoad_Internal" xml:space="preserve">
+    <value>Erreur lors du chargement des devises pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ACHSave_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'enregistrement d'un enregistrement ACH pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ACHLoad_Internal" xml:space="preserve">
+    <value>An error occurred loading ACH record "{2}" for client "{0}".  The error was "{1}".</value>
+  </data>
+  <data name="ACHDeletePrompt_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la récupération de l'invite de suppression ACH pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ACHDelete_Internal" xml:space="preserve">
+    <value>An error occurred deleting ACH record "{2}" for client "{0}".  The error was "{1}".</value>
+  </data>
+  <data name="ACHAvailableCurrencyCount_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la détermination du nombre de devises ACH disponibles pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="MaxDataLenExceeded" xml:space="preserve">
+    <value>La longueur maximale de ce champ a été dépassée.</value>
+  </data>
+  <data name="InvalidData" xml:space="preserve">
+    <value>Ce champ n'est pas valide.</value>
+  </data>
+  <data name="MissingData" xml:space="preserve">
+    <value>Ce champ est obligatoire.</value>
+  </data>
+  <data name="BBMSGatewayDetails_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de l'enregistrement de passerelle BBMS. L'erreur était « {1} »</value>
+  </data>
+  <data name="MerchantAccountDataListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du datalist de compte marchand pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="MerchantAccountDeletePrompt_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la récupération de l'invite de suppression du compte marchand pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="MerchantAccountDelete_Internal" xml:space="preserve">
+    <value>An error occurred deleting merchant account record "{2}" for client "{0}".  The error was "{1}".</value>
+  </data>
+  <data name="MerchantAccountLoadEdit_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du compte vendeur pour modification pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="MerchantAccountLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du compte vendeur pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="MerchantAccountSave_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'enregistrement du compte marchand pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="VTermMerchantAccountList_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des comptes marchands pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="VTermProcessCNP_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du traitement d'une transaction CNP pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="DisbursementRptListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de la liste des états de décaissement pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="DisbursementReportLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du rapport de décaissement pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="SuspectTransListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de la liste des transactions suspectes pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="TransactionLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des détails de transaction pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="SuspectTransListCount_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'obtention du nombre de transactions suspectes pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="TransListCount_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'obtention du nombre de transactions pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="TransListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de la liste des transactions pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ChargebackListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de la liste de non-conformité pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="TransMaxRefundAmount_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la récupération du montant maximal de la transaction pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="VTermProcessCP_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du traitement d'une transaction CP pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="VTermProcessRefund_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du traitement d'une transaction de remboursement pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="SuspectTransAccept_Internal" xml:space="preserve">
+    <value>An error occurred accepting suspect transaction record "{2}" for client "{0}".  The error was "{1}".</value>
+  </data>
+  <data name="SystemMessageListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de la liste des messages système pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="SystemMessageHomePage_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du message système de page d'accueil pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="BBMSHelpFolder_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du dossier d'aide du client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="SystemMessageLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des détails de transaction pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="RefundListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de la liste de remboursement pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ChargebackAccept_Internal" xml:space="preserve">
+    <value>An error occurred accepting chargeback "{2}" for client "{0}".  The error was "{1}".</value>
+  </data>
+  <data name="ChargebackChallenge_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la contestation de la rétrofacturation pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="BatchListCount_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'obtention du nombre de lots pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="BatchListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de la liste des lots pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="TransactionLoadNoID" xml:space="preserve">
+    <value>L'ID de transaction est manquant ou non valide.</value>
+  </data>
+  <data name="ChargebackRssGetFeed_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'obtention des données de flux de rétrofacturation pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ChargebackRssLoadFeed_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du flux de rétrofacturation pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="SuspectTransRssGetFeed_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'obtention des données de flux de transactions suspectes pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="SuspectTransRssLoadFeed_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du flux de transactions suspect pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="TransactionRssGetFeed_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'obtention des données du flux de transactions pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="TransactionRssLoadFeed_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du flux de transactions pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="DisbursementRssGetFeed_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'obtention des données de flux de décaissement pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="DisbursementRssLoadFeed_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du flux de décaissement pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="DailyTransactionReportInfo_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'obtention des détails du rapport de transaction quotidien pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="ReportServerLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des détails du serveur de rapports. Client : "{0} » Erreur : « {1} »</value>
+  </data>
+  <data name="ExportReport_CannotFindWSURL" xml:space="preserve">
+    <value>Impossible de localiser l'URL du service Web Report Server.</value>
+  </data>
+  <data name="ExportReport_CannotProcessReport" xml:space="preserve">
+    <value>Impossible de traiter le rapport. {0}</value>
+  </data>
+  <data name="ExportReport_CannotProcessReportXML" xml:space="preserve">
+    <value>Impossible de traiter le rapport. L'erreur était : {0}</value>
+  </data>
+  <data name="ReportingCredentialsLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'obtention des informations d'identification pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="ReportPathLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'obtention du chemin du rapport pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="ExportFileTypeUnknown" xml:space="preserve">
+    <value>Un type de fichier inconnu a été demandé : {0}.</value>
+  </data>
+  <data name="CCDetailLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des détails de la contestation de refacturation pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ChargebackChallengeDoc_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement d'un document de contestation de refacturation pour le client « {0} ». L'erreur était : « {1} »</value>
+  </data>
+  <data name="BatchUpdateStatus_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la mise à jour du statut du lot pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="UserDataListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de la liste des utilisateurs pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="UserLoadEdit_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de l'utilisateur « {0} » pour modification. L'erreur était « {1} »</value>
+  </data>
+  <data name="UserSave_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'enregistrement de l'utilisateur « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="RoleDataListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du rôle « {0} » pour la modification. L'erreur était « {1} »</value>
+  </data>
+  <data name="PortalFeatureDataListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de la liste des entités du portail. L'erreur était « {1} »</value>
+  </data>
+  <data name="PortalFeatureTaskDataListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de la liste des tâches des entités du portail. L'erreur était « {1} »</value>
+  </data>
+  <data name="ClientUserDeletePrompt_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la récupération de l'invite de suppression de l'utilisateur pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="RoleSave_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'enregistrement du rôle pour la modification pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="PortalRoleDeletePrompt_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la récupération de l'invite de suppression du rôle de portail pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="PortalRoleDelete_Internal" xml:space="preserve">
+    <value>An error occurred deleting portal role record "{2}" for client "{0}".  The error was "{1}".</value>
+  </data>
+  <data name="PortalRoleFeatureAccessDenied" xml:space="preserve">
+    <value>Accès aux fonctionnalités refusé.</value>
+  </data>
+  <data name="ClientUserFeatureAccess_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'obtention de l'accès aux fonctionnalités utilisateur client pour l'utilisateur appuser « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="TransactionLoadNoContext" xml:space="preserve">
+    <value>Le contexte de transaction est manquant ou non valide.</value>
+  </data>
+  <data name="RefundTransNoContext" xml:space="preserve">
+    <value>Le contexte de transaction de remboursement est manquant ou non valide.</value>
+  </data>
+  <data name="TransactionNoContext" xml:space="preserve">
+    <value>Le contexte de transaction est manquant ou non valide.</value>
+  </data>
+  <data name="ClientUserDelete_Internal" xml:space="preserve">
+    <value>An error occurred deleting user record "{2}" for client "{0}".  The error was "{1}".</value>
+  </data>
+  <data name="ClientUserUnlock_Internal" xml:space="preserve">
+    <value>An error occurred unlocking user record "{2}" for client "{0}".  The error was "{1}".</value>
+  </data>
+  <data name="RoleListLoad_Internal" xml:space="preserve">
+    <value>Erreur lors du chargement des rôles pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ClientUserSelfDelete" xml:space="preserve">
+    <value>Impossible de supprimer l'utilisateur actuel</value>
+  </data>
+  <data name="FraudProfileLoadEdit_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des détails du profil de fraude pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="FraudProfileSave_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'enregistrement des détails du profil de fraude pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="EmailNotificationSaveError_noEmails_0" xml:space="preserve">
+    <value>Impossible d'enregistrer la notification de transaction en ligne.</value>
+  </data>
+  <data name="EmailNotificationSaveError_noEmails_1" xml:space="preserve">
+    <value>Impossible d'enregistrer la notification de transaction suspecte.</value>
+  </data>
+  <data name="EmailNotificationSaveError_noEmails_2" xml:space="preserve">
+    <value>Impossible d'enregistrer la notification de non-conformité.</value>
+  </data>
+  <data name="EmailNotificationSaveError_noEmails_3" xml:space="preserve">
+    <value>Impossible d'enregistrer la notification de transaction frauduleuse.</value>
+  </data>
+  <data name="EmailNotificationSaveError_noEmails_4" xml:space="preserve">
+    <value>Impossible d'enregistrer la notification du rapport de décaissement.</value>
+  </data>
+  <data name="EmailNotificationSaveError_noEmails_5" xml:space="preserve">
+    <value>Impossible d'enregistrer la notification du gestionnaire de compte.</value>
+  </data>
+  <data name="EmailNotificationSendError" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'envoi de la notification par e-mail pour le client « {0} ». L'erreur était {1}.</value>
+  </data>
+  <data name="VTermProcessDD_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du traitement d'une transaction DD pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="EmailSettingLoadEdit_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des détails des paramètres d'e-mail pour la modification pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="EmailSettingLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des détails des paramètres d'e-mail pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="EmailSettingSave_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'enregistrement des détails des paramètres de messagerie pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="MobileDeviceListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des périphériques mobiles pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="MobileDeviceLoadEdit_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du périphérique mobile pour modification pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="MobileDeviceSave_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'enregistrement du périphérique mobile pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="MobileDeviceApprovePendings_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'approbation de tous les périphériques mobiles en attente pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="MobileDeviceDeletePrompt_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la récupération de l'invite de suppression de périphérique mobile pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="MobileDeviceDelete_Internal" xml:space="preserve">
+    <value>An error occurred deleting mobile device record "{2}" for client "{0}".  The error was "{1}".</value>
+  </data>
+  <data name="MobileDeviceStatusUpdate_Internal" xml:space="preserve">
+    <value>An error occurred updated the status for mobile device record "{2}" for client "{0}".  The error was "{1}".</value>
+  </data>
+  <data name="PaymentTranReceiptSendError" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'envoi de l'accusé de réception de transaction de paiement pour le client « {0} ». L'erreur était {1}.</value>
+  </data>
+  <data name="TranReceiptDataLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des données d'accusé de réception de transaction pour le client « {0} ». L'erreur était « {1} ». ID de transaction « {2} »</value>
+  </data>
+  <data name="OnHoldACHListCount_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'obtention du nombre de comptes en attente pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ACHSuspendedRssGetFeed_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'obtention du flux de compte de décaissement suspendu pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ACHSuspendedRssLoadFeed_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du flux de compte de décaissement suspendu pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="MobilePayAuthenticateListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de la liste d'authentification de paiement mobile pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="MobileDeviceSecurityCodeLoadList_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement d'un code de sécurité de périphérique mobile pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="MobileTransListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de la liste des transactions mobiles pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="EmailNotificationListLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de la liste de notification par e-mail pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="EmailNotificationSaveError_noEmails_6" xml:space="preserve">
+    <value>Impossible d'enregistrer la notification de mise à jour de carte de crédit.</value>
+  </data>
+  <data name="ClientLoadView_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du client « {0} » pour l'affichage. L'erreur était « {1} »</value>
+  </data>
+  <data name="EmailNotificationSaveError_noEmails_7" xml:space="preserve">
+    <value>Impossible d'enregistrer la notification refusée par prélèvement automatique.</value>
+  </data>
+  <data name="EmailNotificationSaveError_noEmails_8" xml:space="preserve">
+    <value>Impossible d'enregistrer la notification renvoyée par prélèvement automatique.</value>
+  </data>
+  <data name="EmailNotificationSaveError_noEmails_9" xml:space="preserve">
+    <value>Impossible d'enregistrer la notification de transaction suspecte importante.</value>
+  </data>
+  <data name="ACHCurrencyLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de l'ID de devise pour l'ID de pays « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="ACHDeclinedRssLoadFeed_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du flux de compte de décaissement refusé pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="ACHTaxIDLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de l'ID fiscal pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="StripeInfoLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des informations de compte géré Stripe à partir du BBMS pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="StripeKYCLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des informations KYC depuis Stripe pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+  <data name="StripeKYCSave_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'enregistrement des informations KYC Stripe pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="FeeScheduleView_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des taux de transaction par défaut pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="EligibleForFeeScheduleUpgrade_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement de l'éligibilité pour la mise à niveau du barème de frais pour le client « {0} » L'erreur était « {1} »</value>
+  </data>
+  <data name="FeeScheduleUpgrade_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la mise à niveau vers les débours quotidiens pour le client « {0} ». L'erreur était « {1} »</value>
+  </data>
+  <data name="StripePersonLoad_Internal" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des informations de personne à partir de Stripe pour le client « {0} ». L'erreur était « {1} ».</value>
+  </data>
+</root>
