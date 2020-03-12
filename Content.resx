@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Address" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="AVSFull" xml:space="preserve">
+    <value>Full</value>
+  </data>
+  <data name="AVSLight" xml:space="preserve">
+    <value>Light</value>
+  </data>
+  <data name="AVSMedium" xml:space="preserve">
+    <value>Medium</value>
+  </data>
+  <data name="AVSNone" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="City" xml:space="preserve">
+    <value>City</value>
+  </data>
+  <data name="CSCFull" xml:space="preserve">
+    <value>Full</value>
+  </data>
+  <data name="CSCLight" xml:space="preserve">
+    <value>Light</value>
+  </data>
+  <data name="CSCNone" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="ProcessModeDemo" xml:space="preserve">
+    <value>Demo</value>
+  </data>
+  <data name="ProcessModeLive" xml:space="preserve">
+    <value>Live</value>
+  </data>
+  <data name="ProcessModeTest" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="State" xml:space="preserve">
+    <value>State</value>
+  </data>
+  <data name="ZIP" xml:space="preserve">
+    <value>Zip</value>
+  </data>
+  <data name="Checking" xml:space="preserve">
+    <value>Checking</value>
+  </data>
+  <data name="Savings" xml:space="preserve">
+    <value>Savings</value>
+  </data>
+  <data name="IINAmex" xml:space="preserve">
+    <value>American Express</value>
+  </data>
+  <data name="IINCarteBlanche" xml:space="preserve">
+    <value>Carte Blanche</value>
+  </data>
+  <data name="IINDiners" xml:space="preserve">
+    <value>Diner's Club</value>
+  </data>
+  <data name="IINDiscover" xml:space="preserve">
+    <value>Discover</value>
+  </data>
+  <data name="IINenRoute" xml:space="preserve">
+    <value>enRoute</value>
+  </data>
+  <data name="IINJCB" xml:space="preserve">
+    <value>JCB</value>
+  </data>
+  <data name="IINLaser" xml:space="preserve">
+    <value>Laser</value>
+  </data>
+  <data name="IINMaestro" xml:space="preserve">
+    <value>Maestro</value>
+  </data>
+  <data name="IINMasterCard" xml:space="preserve">
+    <value>MasterCard</value>
+  </data>
+  <data name="IINPayPal" xml:space="preserve">
+    <value>PayPal</value>
+  </data>
+  <data name="IINSolo" xml:space="preserve">
+    <value>Solo</value>
+  </data>
+  <data name="IINSwitch" xml:space="preserve">
+    <value>Switch</value>
+  </data>
+  <data name="IINUnknown" xml:space="preserve">
+    <value>Unknown</value>
+  </data>
+  <data name="IINVisa" xml:space="preserve">
+    <value>Visa</value>
+  </data>
+  <data name="IINVisaElectron" xml:space="preserve">
+    <value>Visa Electron</value>
+  </data>
+  <data name="ResultApproved" xml:space="preserve">
+    <value>Approved</value>
+  </data>
+  <data name="ResultGatewayDeclined" xml:space="preserve">
+    <value>Gateway decline</value>
+  </data>
+  <data name="ResultNotProcessed" xml:space="preserve">
+    <value>Not processed</value>
+  </data>
+  <data name="ResultOfflineProcessing" xml:space="preserve">
+    <value>Offline processing</value>
+  </data>
+  <data name="ResultProcessingError" xml:space="preserve">
+    <value>Processing error</value>
+  </data>
+  <data name="ResultValidationError" xml:space="preserve">
+    <value>Validation error</value>
+  </data>
+  <data name="SourceBatch" xml:space="preserve">
+    <value>Transaction batch</value>
+  </data>
+  <data name="SourceChargeback" xml:space="preserve">
+    <value>Chargeback</value>
+  </data>
+  <data name="SourceCNP" xml:space="preserve">
+    <value>Card not present</value>
+  </data>
+  <data name="SourceCP" xml:space="preserve">
+    <value>Card present</value>
+  </data>
+  <data name="SourceOffline" xml:space="preserve">
+    <value>Offline batch</value>
+  </data>
+  <data name="SourceRefund" xml:space="preserve">
+    <value>Refund</value>
+  </data>
+  <data name="SourceRefundBatch" xml:space="preserve">
+    <value>Refund batch</value>
+  </data>
+  <data name="SourceReverseChargeback" xml:space="preserve">
+    <value>Reverse chargeback</value>
+  </data>
+  <data name="NotApplicable" xml:space="preserve">
+    <value>n/a</value>
+  </data>
+  <data name="TestTransaction" xml:space="preserve">
+    <value>test transaction</value>
+  </data>
+  <data name="StatusCompleted" xml:space="preserve">
+    <value>Completed</value>
+  </data>
+  <data name="StatusCompletedError" xml:space="preserve">
+    <value>Completed with errors</value>
+  </data>
+  <data name="StatusProcessing" xml:space="preserve">
+    <value>Gateway processing</value>
+  </data>
+  <data name="StatusProcessingComplete" xml:space="preserve">
+    <value>Gateway processing complete</value>
+  </data>
+  <data name="StatusRetrieving" xml:space="preserve">
+    <value>Retrieving data from gateway</value>
+  </data>
+  <data name="StatusSending" xml:space="preserve">
+    <value>Sending data to gateway</value>
+  </data>
+  <data name="StatusUpload" xml:space="preserve">
+    <value>Uploading data</value>
+  </data>
+  <data name="ACHDelete" xml:space="preserve">
+    <value>Are you sure you want to delete this account?</value>
+  </data>
+  <data name="Refund" xml:space="preserve">
+    <value>Refund</value>
+  </data>
+  <data name="DailyTransactionRpt_ApprovedOnly" xml:space="preserve">
+    <value>Approved transactions only</value>
+  </data>
+  <data name="DailyTransactionRpt_DeniedOnly" xml:space="preserve">
+    <value>Denied transactions only</value>
+  </data>
+  <data name="ReportCredentialsLoad" xml:space="preserve">
+    <value>Loading reporting service credentials</value>
+  </data>
+  <data name="ReportExportPathLoad" xml:space="preserve">
+    <value>Loading export report path</value>
+  </data>
+  <data name="InvalidFieldMsg" xml:space="preserve">
+    <value>"{0}" is an invalid "{1}" value.</value>
+  </data>
+  <data name="CCReasonCancelledRecurring" xml:space="preserve">
+    <value>To support your challenge, provide documentation as a record of the contract or commitment.</value>
+  </data>
+  <data name="CCReasonDuplicateTrans" xml:space="preserve">
+    <value>To support your challenge, provide screen captures of records of the valid transactions presumed to be duplicates.</value>
+  </data>
+  <data name="CCReasonNonReceipt" xml:space="preserve">
+    <value>To support your challenge, provide documentation as a record of delivery confirmation.</value>
+  </data>
+  <data name="CCReasonSignedSupport" xml:space="preserve">
+    <value>To support your challenge, provide documentation as evidence of signed support, such as an endorsed receipt.</value>
+  </data>
+  <data name="CCReasonTransNotRecognized" xml:space="preserve">
+    <value>To support your challenge, provide a screen capture of a record of the transaction.</value>
+  </data>
+  <data name="CCReasonCreditNotProcessed" xml:space="preserve">
+    <value>To support your challenge, provide documentation that explains why the refund was denied.</value>
+  </data>
+  <data name="CCReasonCreditPrevIssued" xml:space="preserve">
+    <value>To support your challenge, provide a screen capture of a record of the processed refund.</value>
+  </data>
+  <data name="CCReasonNotAsDescribed" xml:space="preserve">
+    <value>To support your challenge, provide documentation that describes what the card holder received in exchange for the transaction.</value>
+  </data>
+  <data name="CCReasonOther" xml:space="preserve">
+    <value>For information about how to dispute this chargeback, contact Blackbaud at chargebacks@blackbaud.com.</value>
+  </data>
+  <data name="CCReasonServicesNotRendered" xml:space="preserve">
+    <value>To support your challenge, provide documentation as evidence that the card holder agreed to and used the services received.</value>
+  </data>
+  <data name="CCEmptyFiles" xml:space="preserve">
+    <value>No files uploaded.</value>
+  </data>
+  <data name="CCEmptyNotes" xml:space="preserve">
+    <value>No notes entered.</value>
+  </data>
+  <data name="CCNone" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="AccountNumber" xml:space="preserve">
+    <value>Account number</value>
+  </data>
+  <data name="RoutingNumber" xml:space="preserve">
+    <value>Routing number</value>
+  </data>
+  <data name="Disbursable" xml:space="preserve">
+    <value>Disbursable</value>
+  </data>
+  <data name="DoNotDisburse" xml:space="preserve">
+    <value>Do not disburse</value>
+  </data>
+  <data name="NotDisbursable" xml:space="preserve">
+    <value>Not disbursable</value>
+  </data>
+  <data name="ChargebackReasonCompliance" xml:space="preserve">
+    <value>Compliance chargeback</value>
+  </data>
+  <data name="ChargebackReasonFraud" xml:space="preserve">
+    <value>Fraud transaction - unauthorized</value>
+  </data>
+  <data name="ChargebackReasonCredit" xml:space="preserve">
+    <value>Credit previously issued</value>
+  </data>
+  <data name="ChargebackReasonCanceled" xml:space="preserve">
+    <value>Canceled recurring transaction</value>
+  </data>
+  <data name="ChargebackReasonTransaction" xml:space="preserve">
+    <value>Transaction not recognized</value>
+  </data>
+  <data name="ChargebackReasonCreditNotProcessed" xml:space="preserve">
+    <value>Credit not processed</value>
+  </data>
+  <data name="ChargebackReasonDuplicate" xml:space="preserve">
+    <value>Duplicate transaction (processing)</value>
+  </data>
+  <data name="ChargebackReasonNonReceipt" xml:space="preserve">
+    <value>Non-receipt of merchandise</value>
+  </data>
+  <data name="ChargebackReasonNotAsDescribed" xml:space="preserve">
+    <value>Not as described</value>
+  </data>
+  <data name="ChargebackReasonServices" xml:space="preserve">
+    <value>Services not rendered</value>
+  </data>
+  <data name="ChargebackReasonOther" xml:space="preserve">
+    <value>Other</value>
+  </data>
+  <data name="ChargebackChallengeable" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="ChargebackNotChallengeable" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="StatusOpen" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="StatusClosed" xml:space="preserve">
+    <value>Closed</value>
+  </data>
+  <data name="StatusDisputed" xml:space="preserve">
+    <value>Disputed</value>
+  </data>
+  <data name="ResolutionPending" xml:space="preserve">
+    <value>Pending</value>
+  </data>
+  <data name="ResolutionDisputed" xml:space="preserve">
+    <value>Disputed chargeback</value>
+  </data>
+  <data name="ResolutionConfirmed" xml:space="preserve">
+    <value>Confirmed chargeback</value>
+  </data>
+  <data name="ResultGatewayProcessing" xml:space="preserve">
+    <value>Gateway processing</value>
+  </data>
+  <data name="DailyTransactionRpt_CreditCardType" xml:space="preserve">
+    <value>Account type</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_LastMonth" xml:space="preserve">
+    <value>Last month</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_LastWeek" xml:space="preserve">
+    <value>Last week</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_SpecificDate" xml:space="preserve">
+    <value>Specific date</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_ThisMonth" xml:space="preserve">
+    <value>This month</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_ThisWeek" xml:space="preserve">
+    <value>This week</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_Today" xml:space="preserve">
+    <value>Today</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_Yesterday" xml:space="preserve">
+    <value>Yesterday</value>
+  </data>
+  <data name="DailyTransactionRpt_TransactionDate" xml:space="preserve">
+    <value>Transaction date</value>
+  </data>
+  <data name="Disbursed" xml:space="preserve">
+    <value>Disbursed</value>
+  </data>
+  <data name="AsItHappens" xml:space="preserve">
+    <value>As it happens</value>
+  </data>
+  <data name="Daily" xml:space="preserve">
+    <value>Daily summary</value>
+  </data>
+  <data name="Monthly" xml:space="preserve">
+    <value>Monthly summary</value>
+  </data>
+  <data name="NoNotification" xml:space="preserve">
+    <value>No notification</value>
+  </data>
+  <data name="Weekly" xml:space="preserve">
+    <value>Weekly summary</value>
+  </data>
+  <data name="EmailNotificationSendEmail" xml:space="preserve">
+    <value>Sending as it happens email notification of type {0} (sub type: {1})</value>
+  </data>
+  <data name="EmailReceiptDefaultSubjectText" xml:space="preserve">
+    <value>Acknowledgement from {0} for [total]</value>
+  </data>
+  <data name="PaymentTranReceiptSendEmail" xml:space="preserve">
+    <value>Sending transaction acknowledgement for transaction {0}, with record op parameters: toAddress "{1}", ReplyAddress "{2}", Subject "{3}". For client "{4}".</value>
+  </data>
+  <data name="SignatureLinkText" xml:space="preserve">
+    <value>View mobile signature</value>
+  </data>
+  <data name="ResultDeclined" xml:space="preserve">
+    <value>Declined</value>
+  </data>
+  <data name="Active" xml:space="preserve">
+    <value>Active</value>
+  </data>
+  <data name="Suspended" xml:space="preserve">
+    <value>Suspended</value>
+  </data>
+  <data name="ACHSuspendedRssGetFeed_Internal" xml:space="preserve">
+    <value>Getting suspended disbursement account feed</value>
+  </data>
+  <data name="ACHSuspendedRssLoadFeed_Internal" xml:space="preserve">
+    <value>Loading suspended disbursement account feed</value>
+  </data>
+  <data name="SourceDirectDebitRefund" xml:space="preserve">
+    <value>Refund</value>
+  </data>
+  <data name="DailyTransactionRpt_PendingOnly" xml:space="preserve">
+    <value>Pending transactions only</value>
+  </data>
+  <data name="EmailReceiptDefaultRefundSubjectText" xml:space="preserve">
+    <value>Acknowledgement from {0} for [total] refund</value>
+  </data>
+  <data name="BatchTypeCreditCardBatch" xml:space="preserve">
+    <value>Credit card batch</value>
+  </data>
+  <data name="BatchTypeCreditCardRefundBatch" xml:space="preserve">
+    <value>Credit card refund batch</value>
+  </data>
+  <data name="BatchTypeDirectDebitBatch" xml:space="preserve">
+    <value>Direct debit batch</value>
+  </data>
+  <data name="BatchTypeDirectDebitRefundBatch" xml:space="preserve">
+    <value>Direct debit refund batch</value>
+  </data>
+  <data name="Declined" xml:space="preserve">
+    <value>Declined</value>
+  </data>
+  <data name="ACHDeclinedRssLoadFeed_Internal" xml:space="preserve">
+    <value>Loading declined disbursement account feed</value>
+  </data>
+  <data name="Wallets_All" xml:space="preserve">
+    <value>All Wallets</value>
+  </data>
+  <data name="MandateURL" xml:space="preserve">
+    <value>View Pre-Authorized Debit Agreement</value>
+  </data>
+</root>
