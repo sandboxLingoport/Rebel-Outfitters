@@ -118,420 +118,420 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="UsernameAndPasswordRequiredToLogin" xml:space="preserve">
-    <value>&amp;#917564;A user name and password are required to login.&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917556;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;A user name and password are required to login.&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917557;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="UserRequired" xml:space="preserve">
-    <value>&amp;#917564;A user name and password are required.&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917556;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;A user name and password are required.&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917557;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="LoginError" xml:space="preserve">
-    <value>&amp;#917564;An error occurred during login for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917556;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred during login for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917557;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="LogoutError" xml:space="preserve">
-    <value>&amp;#917564;An error occurred during logout for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917556;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred during logout for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917557;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ChangePasswordError" xml:space="preserve">
-    <value>&amp;#917564;An error occurred changing the user password for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917556;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred changing the user password for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917557;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="AccessDenied" xml:space="preserve">
-    <value>&amp;#917564;Access denied.&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917556;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Access denied.&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917557;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ContactLoadEdit_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading contact details for edit for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917556;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading contact details for edit for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917557;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ContactLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading contact details for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917557;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading contact details for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917557;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ContactSave_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred saving contact details for edit for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917557;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred saving contact details for edit for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917557;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="CountryFormat_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading country formats for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917557;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading country formats for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917557;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="CountryListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;Error loading countries for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917557;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Error loading countries for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917558;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="StateListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;Error loading states for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917557;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Error loading states for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917558;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="BBPSCredentialLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading BBPS credentials for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917557;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading BBPS credentials for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917558;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="BBPSPing_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred pinging BBPS for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917557;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred pinging BBPS for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917558;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="BBPSSave_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred saving BBPS credentials for edit for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917557;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred saving BBPS credentials for edit for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917558;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ACHListLoadList_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the ACH list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917557;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the ACH list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917558;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ACHLoadEdit_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading ACH record "{2}" for edit for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917557;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading ACH record "{2}" for edit for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917558;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="CurrencyListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;Error loading currencies for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917558;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Error loading currencies for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917558;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ACHSave_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred saving an ACH record for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917558;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred saving an ACH record for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917558;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ACHLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading ACH record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917558;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading ACH record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917558;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ACHDeletePrompt_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred retrieving the ACH delete prompt for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917558;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred retrieving the ACH delete prompt for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917559;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ACHDelete_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred deleting ACH record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917558;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred deleting ACH record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917559;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ACHAvailableCurrencyCount_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred determining the number of available ACH currencies for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917558;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred determining the number of available ACH currencies for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917559;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MaxDataLenExceeded" xml:space="preserve">
-    <value>&amp;#917564;This field's maximum length has been exceeded.&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917558;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;This field's maximum length has been exceeded.&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917559;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="InvalidData" xml:space="preserve">
-    <value>&amp;#917564;This field is not valid.&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917558;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;This field is not valid.&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917559;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MissingData" xml:space="preserve">
-    <value>&amp;#917564;This field is required.&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917558;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;This field is required.&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917559;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="BBMSGatewayDetails_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the BBMS gateway record.  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917558;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the BBMS gateway record.  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917559;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MerchantAccountDataListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading merchant account datalist for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917559;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading merchant account datalist for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917559;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MerchantAccountDeletePrompt_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred retrieving the merchant account delete prompt for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917559;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred retrieving the merchant account delete prompt for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917559;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MerchantAccountDelete_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred deleting merchant account record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917559;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred deleting merchant account record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917559;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MerchantAccountLoadEdit_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading merchant account for edit for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917559;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading merchant account for edit for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917560;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MerchantAccountLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading merchant account for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917559;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading merchant account for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917560;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MerchantAccountSave_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred saving merchant account for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917559;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred saving merchant account for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917560;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="VTermMerchantAccountList_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading merchant accounts for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917559;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading merchant accounts for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917560;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="VTermProcessCNP_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred processing a CNP transaction for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917559;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred processing a CNP transaction for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917560;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="DisbursementRptListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the disbursement report list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917559;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the disbursement report list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917560;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="DisbursementReportLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading disbursement report for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917559;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading disbursement report for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917560;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="SuspectTransListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the suspect transaction list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the suspect transaction list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917560;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="TransactionLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading transaction details for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading transaction details for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917560;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="SuspectTransListCount_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred getting the number of suspect transactions for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred getting the number of suspect transactions for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917560;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="TransListCount_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred getting the number of transactions for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred getting the number of transactions for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917561;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="TransListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the transaction list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the transaction list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917561;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ChargebackListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the chargeback list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the chargeback list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917561;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="TransMaxRefundAmount_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred retrieving the maximum transaction amount for client "{0}" .  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred retrieving the maximum transaction amount for client "{0}" .  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917561;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="VTermProcessCP_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred processing a CP transaction for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred processing a CP transaction for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917561;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="VTermProcessRefund_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred processing a Refund transaction for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred processing a Refund transaction for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917561;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="SuspectTransAccept_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred accepting suspect transaction record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred accepting suspect transaction record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917561;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="SystemMessageListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the list of system messages for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917561;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the list of system messages for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917561;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="SystemMessageHomePage_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the home page system message for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917561;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the home page system message for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917561;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="BBMSHelpFolder_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the help folder for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917561;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the help folder for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917557;&amp;#917561;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="SystemMessageLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading transaction details for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917561;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading transaction details for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917552;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="RefundListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the refund list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917561;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the refund list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917552;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ChargebackAccept_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred accepting chargeback "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917561;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred accepting chargeback "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917552;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ChargebackChallenge_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred challenging chargeback for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917561;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred challenging chargeback for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917552;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="BatchListCount_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred getting the number of batches for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917561;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred getting the number of batches for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917552;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="BatchListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the batch list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917561;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the batch list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917552;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="TransactionLoadNoID" xml:space="preserve">
-    <value>&amp;#917564;The transaction ID is missing or invalid.&amp;#917568;&amp;#917554;&amp;#917553;&amp;#917561;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;The transaction ID is missing or invalid.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917552;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ChargebackRssGetFeed_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred getting the chargeback feed data for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917552;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred getting the chargeback feed data for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917552;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ChargebackRssLoadFeed_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the chargeback feed for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917552;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the chargeback feed for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917552;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="SuspectTransRssGetFeed_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred getting the suspect transaction feed data for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917552;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred getting the suspect transaction feed data for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917552;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="SuspectTransRssLoadFeed_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the suspect transaction feed for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917552;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the suspect transaction feed for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917553;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="TransactionRssGetFeed_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred getting the transaction feed data for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917552;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred getting the transaction feed data for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917553;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="TransactionRssLoadFeed_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the transaction feed for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917552;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the transaction feed for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917553;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="DisbursementRssGetFeed_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred getting the disbursement feed data for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917552;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred getting the disbursement feed data for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917553;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="DisbursementRssLoadFeed_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the disbursement feed for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917552;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the disbursement feed for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917553;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="DailyTransactionReportInfo_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred getting daily transaction report details for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917552;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred getting daily transaction report details for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917553;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ReportServerLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the report server details. Client:"{0}"  Error: "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917552;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the report server details. Client:"{0}"  Error: "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917553;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ExportReport_CannotFindWSURL" xml:space="preserve">
-    <value>&amp;#917564;Could not locate the Report Server web service URL.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917553;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Could not locate the Report Server web service URL.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917553;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ExportReport_CannotProcessReport" xml:space="preserve">
-    <value>&amp;#917564;Unable to process report.  {0}&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917553;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Unable to process report.  {0}&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917553;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ExportReport_CannotProcessReportXML" xml:space="preserve">
-    <value>&amp;#917564;Unable to process report.  The error was: {0}&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917553;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Unable to process report.  The error was: {0}&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917553;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ReportingCredentialsLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred getting the reporting credentials for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917553;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred getting the reporting credentials for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917554;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ReportPathLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred getting the report path for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917553;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred getting the report path for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917554;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ExportFileTypeUnknown" xml:space="preserve">
-    <value>&amp;#917564;An unknown file type was requested: {0}.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917553;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An unknown file type was requested: {0}.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917554;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="CCDetailLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the chargeback challenge details for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917553;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the chargeback challenge details for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917554;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ChargebackChallengeDoc_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading a chargeback challenge document for client "{0}". The error was: "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917553;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading a chargeback challenge document for client "{0}". The error was: "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917554;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="BatchUpdateStatus_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred updating the batch status for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917553;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred updating the batch status for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917554;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="UserDataListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading user list for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917553;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading user list for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917554;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="UserLoadEdit_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading user "{0}" for edit.  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917554;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading user "{0}" for edit.  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917554;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="UserSave_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred saving user "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917554;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred saving user "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917554;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="RoleDataListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading role "{0}" for edit.  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917554;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading role "{0}" for edit.  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917554;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="PortalFeatureDataListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading portal feature list.  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917554;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading portal feature list.  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917555;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="PortalFeatureTaskDataListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading portal feature task list.  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917554;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading portal feature task list.  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917555;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ClientUserDeletePrompt_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred retrieving the user delete prompt for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917554;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred retrieving the user delete prompt for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917555;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="RoleSave_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred saving role for edit for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917554;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred saving role for edit for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917555;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="PortalRoleDeletePrompt_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred retrieving the portal role delete prompt for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917554;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred retrieving the portal role delete prompt for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917555;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="PortalRoleDelete_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred deleting portal role record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917554;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred deleting portal role record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917555;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="PortalRoleFeatureAccessDenied" xml:space="preserve">
-    <value>&amp;#917564;Feature access denied.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917554;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Feature access denied.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917555;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ClientUserFeatureAccess_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred getting client user feature access for appuser "{0}". The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917555;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred getting client user feature access for appuser "{0}". The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917555;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="TransactionLoadNoContext" xml:space="preserve">
-    <value>&amp;#917564;The transaction context is missing or invalid.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917555;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;The transaction context is missing or invalid.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917555;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="RefundTransNoContext" xml:space="preserve">
-    <value>&amp;#917564;The refund transaction context is missing or invalid.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917555;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;The refund transaction context is missing or invalid.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917555;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="TransactionNoContext" xml:space="preserve">
-    <value>&amp;#917564;The transaction context is missing or invalid.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917555;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;The transaction context is missing or invalid.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917556;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ClientUserDelete_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred deleting user record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917555;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred deleting user record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917556;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ClientUserUnlock_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred unlocking user record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917555;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred unlocking user record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917556;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="RoleListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;Error loading roles for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917555;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Error loading roles for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917556;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ClientUserSelfDelete" xml:space="preserve">
-    <value>&amp;#917564;Unable to delete the current user&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917555;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Unable to delete the current user&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917556;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="FraudProfileLoadEdit_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading fraud profile details for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917555;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading fraud profile details for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917556;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="FraudProfileSave_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred saving fraud profile details for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917555;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred saving fraud profile details for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917556;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailNotificationSaveError_noEmails_0" xml:space="preserve">
-    <value>&amp;#917564;Unable to save online transaction notification.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917556;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Unable to save online transaction notification.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917556;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailNotificationSaveError_noEmails_1" xml:space="preserve">
-    <value>&amp;#917564;Unable to save suspect transaction notification.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917556;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Unable to save suspect transaction notification.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917556;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailNotificationSaveError_noEmails_2" xml:space="preserve">
-    <value>&amp;#917564;Unable to save chargeback notification.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917556;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Unable to save chargeback notification.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917556;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailNotificationSaveError_noEmails_3" xml:space="preserve">
-    <value>&amp;#917564;Unable to save fraudulent transaction notification.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917556;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Unable to save fraudulent transaction notification.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917557;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailNotificationSaveError_noEmails_4" xml:space="preserve">
-    <value>&amp;#917564;Unable to save disbursement report notification.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917556;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Unable to save disbursement report notification.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917557;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailNotificationSaveError_noEmails_5" xml:space="preserve">
-    <value>&amp;#917564;Unable to save account manager notification.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917556;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Unable to save account manager notification.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917557;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailNotificationSendError" xml:space="preserve">
-    <value>&amp;#917564;An error occurred sending as-it-happens email notification for client "{0}". The error was {1}.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917556;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred sending as-it-happens email notification for client "{0}". The error was {1}.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917557;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="VTermProcessDD_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred processing a DD transaction for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917556;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred processing a DD transaction for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917557;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailSettingLoadEdit_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading email setting details for edit for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917556;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading email setting details for edit for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917557;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailSettingLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading email setting details for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917556;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading email setting details for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917557;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailSettingSave_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred saving email setting details for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917557;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred saving email setting details for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917557;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MobileDeviceListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading mobile devices for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917557;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading mobile devices for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917557;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MobileDeviceLoadEdit_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading mobile device for edit for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917557;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading mobile device for edit for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917557;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MobileDeviceSave_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred saving mobile device for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917557;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred saving mobile device for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917558;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MobileDeviceApprovePendings_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred approving all pending mobile devices for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917557;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred approving all pending mobile devices for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917558;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MobileDeviceDeletePrompt_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred retrieving the mobile device delete prompt for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917557;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred retrieving the mobile device delete prompt for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917558;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MobileDeviceDelete_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred deleting mobile device record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917557;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred deleting mobile device record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917558;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MobileDeviceStatusUpdate_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred updated the status for mobile device record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917557;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred updated the status for mobile device record "{2}" for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917558;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="PaymentTranReceiptSendError" xml:space="preserve">
-    <value>&amp;#917564;An error occurred sending payment transaction acknowledgement for client "{0}". The error was {1}.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917557;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred sending payment transaction acknowledgement for client "{0}". The error was {1}.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917558;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="TranReceiptDataLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading transaction acknowledgement data for client "{0}".  The error was "{1}". Transaction ID "{2}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917557;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading transaction acknowledgement data for client "{0}".  The error was "{1}". Transaction ID "{2}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917558;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="OnHoldACHListCount_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred getting the number of on hold accounts for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917558;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred getting the number of on hold accounts for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917558;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ACHSuspendedRssGetFeed_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred getting the suspended disbursement account feed for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917558;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred getting the suspended disbursement account feed for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917558;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ACHSuspendedRssLoadFeed_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the suspended disbursement account feed for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917558;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the suspended disbursement account feed for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917558;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MobilePayAuthenticateListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the mobile pay authentication list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917558;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the mobile pay authentication list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MobileDeviceSecurityCodeLoadList_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading a mobile device security code for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917558;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading a mobile device security code for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="MobileTransListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the mobile transaction list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917558;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the mobile transaction list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailNotificationListLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the email notification list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917558;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the email notification list for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailNotificationSaveError_noEmails_6" xml:space="preserve">
-    <value>&amp;#917564;Unable to save credit card updater notification.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Unable to save credit card updater notification.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ClientLoadView_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading client "{0}" for viewing.  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading client "{0}" for viewing.  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailNotificationSaveError_noEmails_7" xml:space="preserve">
-    <value>&amp;#917564;Unable to save direct debit declined notification.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917558;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Unable to save direct debit declined notification.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailNotificationSaveError_noEmails_8" xml:space="preserve">
-    <value>&amp;#917564;Unable to save direct debit returned notification.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917559;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Unable to save direct debit returned notification.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EmailNotificationSaveError_noEmails_9" xml:space="preserve">
-    <value>&amp;#917564;Unable to save large suspect transaction notification.&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917559;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;Unable to save large suspect transaction notification.&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ACHCurrencyLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading currency ID for country ID "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917559;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading currency ID for country ID "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917559;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ACHDeclinedRssLoadFeed_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the declined disbursement account feed for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917559;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the declined disbursement account feed for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="ACHTaxIDLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the tax ID for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917559;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the tax ID for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="StripeInfoLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the Stripe managed account info from BBMS for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917559;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the Stripe managed account info from BBMS for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917554;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="StripeKYCLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the KYC information from Stripe for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917559;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the KYC information from Stripe for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917555;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="StripeKYCSave_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred saving the Stripe KYC information for client "{0}". The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917559;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred saving the Stripe KYC information for client "{0}". The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917556;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="FeeScheduleView_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading default transaction rates for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917559;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading default transaction rates for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917557;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="EligibleForFeeScheduleUpgrade_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading eligibility for fee schedule upgrade for client "{0}" The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917559;&amp;#917561;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading eligibility for fee schedule upgrade for client "{0}" The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917558;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="FeeScheduleUpgrade_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred upgrading to daily disbursements for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917560;&amp;#917552;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred upgrading to daily disbursements for client "{0}".  The error was "{1}"&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917559;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
   <data name="StripePersonLoad_Internal" xml:space="preserve">
-    <value>&amp;#917564;An error occurred loading the Person information from Stripe for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917554;&amp;#917560;&amp;#917553;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917557;&amp;#917566;</value>
+    <value>&amp;#917564;An error occurred loading the Person information from Stripe for client "{0}".  The error was "{1}".&amp;#917568;&amp;#917554;&amp;#917558;&amp;#917560;&amp;#917560;&amp;#917599;&amp;#917599;&amp;#917555;&amp;#917558;&amp;#917566;</value>
   </data>
 </root>
