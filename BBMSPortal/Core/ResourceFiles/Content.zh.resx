@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--BBMSPortal_4_31 - FULL-FILE-->
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"></xsd:import>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="type" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="mimetype" type="xsd:string"></xsd:attribute>
+              <xsd:attribute ref="xml:space"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="name" type="xsd:string"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" msdata:Ordinal="1" type="xsd:string"></xsd:element>
+                <xsd:element minOccurs="0" name="comment" msdata:Ordinal="2" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" msdata:Ordinal="1" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="type" msdata:Ordinal="3" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="mimetype" msdata:Ordinal="4" type="xsd:string"></xsd:attribute>
+              <xsd:attribute ref="xml:space"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" msdata:Ordinal="1" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" type="xsd:string"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Address" xml:space="preserve">
+    <value>地址</value>
+  </data>
+  <data name="AVSFull" xml:space="preserve">
+    <value>完整</value>
+  </data>
+  <data name="AVSLight" xml:space="preserve">
+    <value>光</value>
+  </data>
+  <data name="AVSMedium" xml:space="preserve">
+    <value>中等</value>
+  </data>
+  <data name="AVSNone" xml:space="preserve">
+    <value>没有</value>
+  </data>
+  <data name="City" xml:space="preserve">
+    <value>城市</value>
+  </data>
+  <data name="CSCFull" xml:space="preserve">
+    <value>完整</value>
+  </data>
+  <data name="CSCLight" xml:space="preserve">
+    <value>光</value>
+  </data>
+  <data name="CSCNone" xml:space="preserve">
+    <value>没有</value>
+  </data>
+  <data name="ProcessModeDemo" xml:space="preserve">
+    <value>演示</value>
+  </data>
+  <data name="ProcessModeLive" xml:space="preserve">
+    <value>生活</value>
+  </data>
+  <data name="ProcessModeTest" xml:space="preserve">
+    <value>测试</value>
+  </data>
+  <data name="State" xml:space="preserve">
+    <value>状态</value>
+  </data>
+  <data name="ZIP" xml:space="preserve">
+    <value>拉链</value>
+  </data>
+  <data name="Checking" xml:space="preserve">
+    <value>检查</value>
+  </data>
+  <data name="Savings" xml:space="preserve">
+    <value>节省</value>
+  </data>
+  <data name="IINAmex" xml:space="preserve">
+    <value>美國运通</value>
+  </data>
+  <data name="IINCarteBlanche" xml:space="preserve">
+    <value>单点菜式</value>
+  </data>
+  <data name="IINDiners" xml:space="preserve">
+    <value>晚餐俱乐部</value>
+  </data>
+  <data name="IINDiscover" xml:space="preserve">
+    <value>发现</value>
+  </data>
+  <data name="IINenRoute" xml:space="preserve">
+    <value>看到</value>
+  </data>
+  <data name="IINJCB" xml:space="preserve">
+    <value>JCB</value>
+  </data>
+  <data name="IINLaser" xml:space="preserve">
+    <value>激光</value>
+  </data>
+  <data name="IINMaestro" xml:space="preserve">
+    <value>大师</value>
+  </data>
+  <data name="IINMasterCard" xml:space="preserve">
+    <value>万事达卡</value>
+  </data>
+  <data name="IINPayPal" xml:space="preserve">
+    <value>贝宝</value>
+  </data>
+  <data name="IINSolo" xml:space="preserve">
+    <value>独奏</value>
+  </data>
+  <data name="IINSwitch" xml:space="preserve">
+    <value>开关</value>
+  </data>
+  <data name="IINUnknown" xml:space="preserve">
+    <value>未知</value>
+  </data>
+  <data name="IINVisa" xml:space="preserve">
+    <value>签证</value>
+  </data>
+  <data name="IINVisaElectron" xml:space="preserve">
+    <value>签证电子</value>
+  </data>
+  <data name="ResultApproved" xml:space="preserve">
+    <value>已批准</value>
+  </data>
+  <data name="ResultGatewayDeclined" xml:space="preserve">
+    <value>网关下降</value>
+  </data>
+  <data name="ResultNotProcessed" xml:space="preserve">
+    <value>未处理</value>
+  </data>
+  <data name="ResultOfflineProcessing" xml:space="preserve">
+    <value>脱机处理</value>
+  </data>
+  <data name="ResultProcessingError" xml:space="preserve">
+    <value>处理错误</value>
+  </data>
+  <data name="ResultValidationError" xml:space="preserve">
+    <value>验证错误</value>
+  </data>
+  <data name="SourceBatch" xml:space="preserve">
+    <value>事务处理批</value>
+  </data>
+  <data name="SourceChargeback" xml:space="preserve">
+    <value>信用卡拒付</value>
+  </data>
+  <data name="SourceCNP" xml:space="preserve">
+    <value>卡不存在</value>
+  </data>
+  <data name="SourceCP" xml:space="preserve">
+    <value>存在卡片</value>
+  </data>
+  <data name="SourceOffline" xml:space="preserve">
+    <value>脱机批处理</value>
+  </data>
+  <data name="SourceRefund" xml:space="preserve">
+    <value>退款</value>
+  </data>
+  <data name="SourceRefundBatch" xml:space="preserve">
+    <value>退款批次</value>
+  </data>
+  <data name="SourceReverseChargeback" xml:space="preserve">
+    <value>反向信用卡拒付</value>
+  </data>
+  <data name="NotApplicable" xml:space="preserve">
+    <value>不适用</value>
+  </data>
+  <data name="TestTransaction" xml:space="preserve">
+    <value>测试事务</value>
+  </data>
+  <data name="StatusCompleted" xml:space="preserve">
+    <value>已完成</value>
+  </data>
+  <data name="StatusCompletedError" xml:space="preserve">
+    <value>已完成但出现错误</value>
+  </data>
+  <data name="StatusProcessing" xml:space="preserve">
+    <value>网关处理</value>
+  </data>
+  <data name="StatusProcessingComplete" xml:space="preserve">
+    <value>网关处理完成</value>
+  </data>
+  <data name="StatusRetrieving" xml:space="preserve">
+    <value>从网关检索数据</value>
+  </data>
+  <data name="StatusSending" xml:space="preserve">
+    <value>将数据发送到网关</value>
+  </data>
+  <data name="StatusUpload" xml:space="preserve">
+    <value>上传数据</value>
+  </data>
+  <data name="ACHDelete" xml:space="preserve">
+    <value>是否确实要删除此帐户？</value>
+  </data>
+  <data name="Refund" xml:space="preserve">
+    <value>退款</value>
+  </data>
+  <data name="DailyTransactionRpt_ApprovedOnly" xml:space="preserve">
+    <value>仅批准的事务处理</value>
+  </data>
+  <data name="DailyTransactionRpt_DeniedOnly" xml:space="preserve">
+    <value>仅拒绝的事务</value>
+  </data>
+  <data name="ReportCredentialsLoad" xml:space="preserve">
+    <value>加载报告服务凭据</value>
+  </data>
+  <data name="ReportExportPathLoad" xml:space="preserve">
+    <value>加载导出报告路径</value>
+  </data>
+  <data name="InvalidFieldMsg" xml:space="preserve">
+    <value>“{0}” 是无效的 “{1}” 值。</value>
+  </data>
+  <data name="CCReasonCancelledRecurring" xml:space="preserve">
+    <value>为了支持您的挑战，请提供文档作为合同或承诺的记录。</value>
+  </data>
+  <data name="CCReasonDuplicateTrans" xml:space="preserve">
+    <value>为了支持您的挑战，请提供被推定为重复的有效交易记录的屏幕截图。</value>
+  </data>
+  <data name="CCReasonNonReceipt" xml:space="preserve">
+    <value>为了支持您的挑战，请提供文档作为送达确认记录。</value>
+  </data>
+  <data name="CCReasonSignedSupport" xml:space="preserve">
+    <value>为了支持您的挑战，请提供文档作为已签署支持的证据，例如认可的收据。</value>
+  </data>
+  <data name="CCReasonTransNotRecognized" xml:space="preserve">
+    <value>为了支持您的挑战，请提供交易记录的屏幕截图。</value>
+  </data>
+  <data name="CCReasonCreditNotProcessed" xml:space="preserve">
+    <value>为了支持您的挑战，请提供解释退款被拒绝的原因的文档。</value>
+  </data>
+  <data name="CCReasonCreditPrevIssued" xml:space="preserve">
+    <value>为了支持您的挑战，请提供已处理退款记录的屏幕截图。</value>
+  </data>
+  <data name="CCReasonNotAsDescribed" xml:space="preserve">
+    <value>为了支持您的挑战，请提供文档说明持卡人收到的信息以换取交易。</value>
+  </data>
+  <data name="CCReasonOther" xml:space="preserve">
+    <value>有关如何对此信用卡拒付提出异议的信息，请通过 chargebacks@blackbaud.com 联系 Blackbaud。</value>
+  </data>
+  <data name="CCReasonServicesNotRendered" xml:space="preserve">
+    <value>为了支持您的挑战，请提供文档作为持卡人同意并使用所收到的服务的证据。</value>
+  </data>
+  <data name="CCEmptyFiles" xml:space="preserve">
+    <value>未上传文件。</value>
+  </data>
+  <data name="CCEmptyNotes" xml:space="preserve">
+    <value>未输入备注。</value>
+  </data>
+  <data name="CCNone" xml:space="preserve">
+    <value>没有</value>
+  </data>
+  <data name="AccountNumber" xml:space="preserve">
+    <value>帐号</value>
+  </data>
+  <data name="RoutingNumber" xml:space="preserve">
+    <value>路由号码</value>
+  </data>
+  <data name="Disbursable" xml:space="preserve">
+    <value>可支付</value>
+  </data>
+  <data name="DoNotDisburse" xml:space="preserve">
+    <value>请勿支付</value>
+  </data>
+  <data name="NotDisbursable" xml:space="preserve">
+    <value>不可支付</value>
+  </data>
+  <data name="ChargebackReasonCompliance" xml:space="preserve">
+    <value>合规性信用卡拒付</value>
+  </data>
+  <data name="ChargebackReasonFraud" xml:space="preserve">
+    <value>欺诈交易-未经授权</value>
+  </data>
+  <data name="ChargebackReasonCredit" xml:space="preserve">
+    <value>先前发放的贷项</value>
+  </data>
+  <data name="ChargebackReasonCanceled" xml:space="preserve">
+    <value>已取消的经常性事务处理</value>
+  </data>
+  <data name="ChargebackReasonTransaction" xml:space="preserve">
+    <value>事务未识别</value>
+  </data>
+  <data name="ChargebackReasonCreditNotProcessed" xml:space="preserve">
+    <value>信用未处理</value>
+  </data>
+  <data name="ChargebackReasonDuplicate" xml:space="preserve">
+    <value>重复事务处理（处理）</value>
+  </data>
+  <data name="ChargebackReasonNonReceipt" xml:space="preserve">
+    <value>未收到商品</value>
+  </data>
+  <data name="ChargebackReasonNotAsDescribed" xml:space="preserve">
+    <value>不符合描述的要求</value>
+  </data>
+  <data name="ChargebackReasonServices" xml:space="preserve">
+    <value>未呈现的服务</value>
+  </data>
+  <data name="ChargebackReasonOther" xml:space="preserve">
+    <value>其他</value>
+  </data>
+  <data name="ChargebackChallengeable" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="ChargebackNotChallengeable" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="StatusOpen" xml:space="preserve">
+    <value>打开</value>
+  </data>
+  <data name="StatusClosed" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="StatusDisputed" xml:space="preserve">
+    <value>有争议</value>
+  </data>
+  <data name="ResolutionPending" xml:space="preserve">
+    <value>待定</value>
+  </data>
+  <data name="ResolutionDisputed" xml:space="preserve">
+    <value>有争议的信用卡拒付</value>
+  </data>
+  <data name="ResolutionConfirmed" xml:space="preserve">
+    <value>已确认信用卡拒付</value>
+  </data>
+  <data name="ResultGatewayProcessing" xml:space="preserve">
+    <value>网关处理</value>
+  </data>
+  <data name="DailyTransactionRpt_CreditCardType" xml:space="preserve">
+    <value>帐户类型</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_LastMonth" xml:space="preserve">
+    <value>上个月</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_LastWeek" xml:space="preserve">
+    <value>上周</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_SpecificDate" xml:space="preserve">
+    <value>具体日期</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_ThisMonth" xml:space="preserve">
+    <value>本月</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_ThisWeek" xml:space="preserve">
+    <value>本周</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_Today" xml:space="preserve">
+    <value>今天</value>
+  </data>
+  <data name="DailyTransactionRpt_DT_Yesterday" xml:space="preserve">
+    <value>昨天</value>
+  </data>
+  <data name="DailyTransactionRpt_TransactionDate" xml:space="preserve">
+    <value>交易日期</value>
+  </data>
+  <data name="Disbursed" xml:space="preserve">
+    <value>已付款</value>
+  </data>
+  <data name="AsItHappens" xml:space="preserve">
+    <value>因为它发生</value>
+  </data>
+  <data name="Daily" xml:space="preserve">
+    <value>每日摘要</value>
+  </data>
+  <data name="Monthly" xml:space="preserve">
+    <value>每月摘要</value>
+  </data>
+  <data name="NoNotification" xml:space="preserve">
+    <value>无通知</value>
+  </data>
+  <data name="Weekly" xml:space="preserve">
+    <value>每周摘要</value>
+  </data>
+  <data name="EmailNotificationSendEmail" xml:space="preserve">
+    <value>发送类型为 {0}（子类型：{1}）的电子邮件通知</value>
+  </data>
+  <data name="EmailReceiptDefaultSubjectText" xml:space="preserve">
+    <value>来自 {0} 的 [总计] 的确认</value>
+  </data>
+  <data name="PaymentTranReceiptSendEmail" xml:space="preserve">
+    <value>发送交易确认事务 {0}，包含记录操作参数：地址 “{1}”，回复地址 “{2}”，主题 “{3}”。对于客户端 “{4}”。</value>
+  </data>
+  <data name="SignatureLinkText" xml:space="preserve">
+    <value>查看移动签名</value>
+  </data>
+  <data name="ResultDeclined" xml:space="preserve">
+    <value>拒绝</value>
+  </data>
+  <data name="Active" xml:space="preserve">
+    <value>活动</value>
+  </data>
+  <data name="Suspended" xml:space="preserve">
+    <value>暂停</value>
+  </data>
+  <data name="ACHSuspendedRssGetFeed_Internal" xml:space="preserve">
+    <value>获取暂停的付款账户上传数据</value>
+  </data>
+  <data name="ACHSuspendedRssLoadFeed_Internal" xml:space="preserve">
+    <value>加载暂停的付款账户上传数据</value>
+  </data>
+  <data name="SourceDirectDebitRefund" xml:space="preserve">
+    <value>退款</value>
+  </data>
+  <data name="DailyTransactionRpt_PendingOnly" xml:space="preserve">
+    <value>仅待定事务处理</value>
+  </data>
+  <data name="EmailReceiptDefaultRefundSubjectText" xml:space="preserve">
+    <value>来自 {0} 的 [总额] 退款确认</value>
+  </data>
+  <data name="BatchTypeCreditCardBatch" xml:space="preserve">
+    <value>信用卡批次</value>
+  </data>
+  <data name="BatchTypeCreditCardRefundBatch" xml:space="preserve">
+    <value>信用卡退款批次</value>
+  </data>
+  <data name="BatchTypeDirectDebitBatch" xml:space="preserve">
+    <value>直接借记批</value>
+  </data>
+  <data name="BatchTypeDirectDebitRefundBatch" xml:space="preserve">
+    <value>直接借记退款批次</value>
+  </data>
+  <data name="Declined" xml:space="preserve">
+    <value>拒绝</value>
+  </data>
+  <data name="ACHDeclinedRssLoadFeed_Internal" xml:space="preserve">
+    <value>加载已拒绝的付款账户上传数据</value>
+  </data>
+  <data name="Wallets_All" xml:space="preserve">
+    <value>所有钱包</value>
+  </data>
+  <data name="MandateURL" xml:space="preserve">
+    <value>查看预授权借记协议</value>
+  </data>
+</root>
