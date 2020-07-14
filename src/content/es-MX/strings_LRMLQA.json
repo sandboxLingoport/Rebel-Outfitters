@@ -1,0 +1,133 @@
+{
+  "Bottombar": {
+    "menuAlt": "\uDB40\uDC3Cabrir el menú de la barra lateral\uDB40\uDC40\uDB40\uDC38\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E"
+  },
+  "Browse": {
+    "droidTitle": "\uDB40\uDC3CTodos los droides\uDB40\uDC40\uDB40\uDC34\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "vehicleTitle": "\uDB40\uDC3CTodos los vehículos\uDB40\uDC40\uDB40\uDC34\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E"
+  },
+  "Cart": {
+    "cartTitle": "\uDB40\uDC3CCarrito de compra\uDB40\uDC40\uDB40\uDC37\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "checkoutLabel": "\uDB40\uDC3CCAJA\uDB40\uDC40\uDB40\uDC37\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "closeAlt": "\uDB40\uDC3CCerrar carrito\uDB40\uDC40\uDB40\uDC37\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "deleteAlt": "\uDB40\uDC3CEliminar artículo de la cesta\uDB40\uDC40\uDB40\uDC37\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "noItemMsg": "\uDB40\uDC3CNo hay artículos en el carrito.\uDB40\uDC40\uDB40\uDC37\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "totalTitle": "\uDB40\uDC3CTotal: \uDB40\uDC40\uDB40\uDC37\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E"
+  },
+  "Checkout": {
+    "accountHolder": "\uDB40\uDC3C1234567-9876-00\uDB40\uDC40\uDB40\uDC35\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "accountLabel": "\uDB40\uDC3CNúmero de crédito imperial\uDB40\uDC40\uDB40\uDC35\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "cartTitle": "\uDB40\uDC3CCarrito de compra\uDB40\uDC40\uDB40\uDC36\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "checkoutTitle": "\uDB40\uDC3CCaja\uDB40\uDC40\uDB40\uDC34\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "coordinatesHolder": "\uDB40\uDC3C0,0,0\uDB40\uDC40\uDB40\uDC34\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "coordinatesLabel": "\uDB40\uDC3CCoordenadas\uDB40\uDC40\uDB40\uDC34\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "deleteAlt": "\uDB40\uDC3Celiminar artículo de la cesta\uDB40\uDC40\uDB40\uDC36\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "expDateLabel": "\uDB40\uDC3CFecha de caducidad\uDB40\uDC40\uDB40\uDC36\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "firstNameLabel": "\uDB40\uDC3CNombre\uDB40\uDC40\uDB40\uDC34\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "lastNameLabel": "\uDB40\uDC3CApellido\uDB40\uDC40\uDB40\uDC34\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "methodLabel": "\uDB40\uDC3CMétodo de envío\uDB40\uDC40\uDB40\uDC35\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "noItemMessage": "\uDB40\uDC3CAñadir artículos a la cesta de compra.\uDB40\uDC40\uDB40\uDC36\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "orderLabel": "\uDB40\uDC3CREALIZAR EL PEDIDO\uDB40\uDC40\uDB40\uDC36\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "payNameHolder": "\uDB40\uDC3CPrimera última\uDB40\uDC40\uDB40\uDC35\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "payNameLabel": "\uDB40\uDC3CNombre en la tarjeta\uDB40\uDC40\uDB40\uDC35\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "paySectionLabel": "\uDB40\uDC3CPago\uDB40\uDC40\uDB40\uDC35\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "sectorLabel": "\uDB40\uDC3CSector/Cuadrante\uDB40\uDC40\uDB40\uDC34\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "securityHolder": "\uDB40\uDC3C123456\uDB40\uDC40\uDB40\uDC36\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "securityLabel": "\uDB40\uDC3CCódigo de seguridad\uDB40\uDC40\uDB40\uDC35\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "shipLightspeed": "\uDB40\uDC3CVelocidad de luz\uDB40\uDC40\uDB40\uDC35\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "shipOvernight": "\uDB40\uDC3CPernoctar\uDB40\uDC40\uDB40\uDC35\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "shipSectionLabel": "\uDB40\uDC3CInformación de envío\uDB40\uDC40\uDB40\uDC34\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "shipStandard": "\uDB40\uDC3CEstándar\uDB40\uDC40\uDB40\uDC35\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "successMessage": "\uDB40\uDC3CPedido realizado correctamente.\uDB40\uDC40\uDB40\uDC36\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "termsLink": "\uDB40\uDC3C(Ver)\uDB40\uDC40\uDB40\uDC36\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "termsStatement": "\uDB40\uDC3CHe leído y acepto los Términos y Condiciones\uDB40\uDC40\uDB40\uDC36\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "totalLabel": "\uDB40\uDC3CTotal: \uDB40\uDC40\uDB40\uDC36\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E"
+  },
+  "Error404": {
+    "errorMessage": "\uDB40\uDC3C404 Error: Página no encontrada.\uDB40\uDC40\uDB40\uDC38\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E"
+  },
+  "Hamburger": {
+    "contactLabel": "\uDB40\uDC3CContáctenos\uDB40\uDC40\uDB40\uDC31\uDB40\uDC30\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "dashLabel": "\uDB40\uDC3CVer panel de Lingoport\uDB40\uDC40\uDB40\uDC39\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "githubLabel": "\uDB40\uDC3CVer origen\uDB40\uDC40\uDB40\uDC39\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "githubLogoAlt": "\uDB40\uDC3CLogotipo de GitHub\uDB40\uDC40\uDB40\uDC38\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "learnLabel": "\uDB40\uDC3CMás información\uDB40\uDC40\uDB40\uDC31\uDB40\uDC30\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "lingoLogoAlt": "\uDB40\uDC3CLogotipo de Lingoport\uDB40\uDC40\uDB40\uDC38\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "localeEN": "\uDB40\uDC3CEspañol - Estados Unidos\uDB40\uDC40\uDB40\uDC39\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "localeEO": "\uDB40\uDC3Cesperanto\uDB40\uDC40\uDB40\uDC39\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "localeFR": "\uDB40\uDC3CFrancés - Francia\uDB40\uDC40\uDB40\uDC39\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "localeLabel": "\uDB40\uDC3CLocalización: \uDB40\uDC40\uDB40\uDC39\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "localeSI": "\uDB40\uDC3CSith\uDB40\uDC40\uDB40\uDC39\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "localeYO": "\uDB40\uDC3CYoda\uDB40\uDC40\uDB40\uDC39\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "localeZH": "\uDB40\uDC3CChino - China\uDB40\uDC40\uDB40\uDC39\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "versionBad": "\uDB40\uDC3CNo compatible con I18N\uDB40\uDC40\uDB40\uDC38\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "versionGood": "\uDB40\uDC3CCompatible con i18n\uDB40\uDC40\uDB40\uDC38\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "versionIQA": "\uDB40\uDC3CInContext\uDB40\uDC40\uDB40\uDC39\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "versionLabel": "\uDB40\uDC3CVersión: \uDB40\uDC40\uDB40\uDC38\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E"
+  },
+  "Home": {
+    "symbolAlt": "\uDB40\uDC3CSímbolo de moneda de crédito imperial\uDB40\uDC40\uDB40\uDC34\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "welcomeMessage": "\uDB40\uDC3CBienvenido a Rebel Outfitters!\uDB40\uDC40\uDB40\uDC33\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "welcomeSubtitle": "\uDB40\uDC3CProporcionamos todo lo necesario para asumir el Imperio (y ganar).\uDB40\uDC40\uDB40\uDC33\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E"
+  },
+  "Navbar": {
+    "arrowAlt": "\uDB40\uDC3CFlecha desplegable\uDB40\uDC40\uDB40\uDC33\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "cartAlt": "\uDB40\uDC3Cmostrar carrito\uDB40\uDC40\uDB40\uDC33\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "greetingText": "\uDB40\uDC3CHola Han.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "historyLink": "\uDB40\uDC3CHISTORIAL DE PEDIDOS\uDB40\uDC40\uDB40\uDC33\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "logoAlt": "\uDB40\uDC3CLogotipo de Rebel Outfitters\uDB40\uDC40\uDB40\uDC32\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "navLinkDroids": "\uDB40\uDC3CDROIDES\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "navLinkHome": "\uDB40\uDC3CHOGAR\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "navLinkVehicles": "\uDB40\uDC3CVEHÍCULOS\uDB40\uDC40\uDB40\uDC33\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "searchButtonLabel": "\uDB40\uDC3Cbuscar productos\uDB40\uDC40\uDB40\uDC32\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "searchIconAlt": "\uDB40\uDC3Cicono de búsqueda\uDB40\uDC40\uDB40\uDC33\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "searchPlaceholder": "\uDB40\uDC3C¿Qué estás buscando?\uDB40\uDC40\uDB40\uDC32\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E"
+  },
+  "OrderHistory": {
+    "dateHeading": "\uDB40\uDC3CFecha\uDB40\uDC40\uDB40\uDC37\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "historyTitle": "\uDB40\uDC3CHistorial de pedidos\uDB40\uDC40\uDB40\uDC37\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "numberHeading": "\uDB40\uDC3CNúmero de pedido\uDB40\uDC40\uDB40\uDC38\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "statusHeading": "\uDB40\uDC3CEstado\uDB40\uDC40\uDB40\uDC38\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "totalHeading": "\uDB40\uDC3CTotal\uDB40\uDC40\uDB40\uDC38\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E"
+  },
+  "Order": {
+    "statusDelivered": "\uDB40\uDC3CEntregado\uDB40\uDC40\uDB40\uDC31\uDB40\uDC30\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "statusProcessing": "\uDB40\uDC3CProcesamiento\uDB40\uDC40\uDB40\uDC31\uDB40\uDC30\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "statusShipped": "\uDB40\uDC3CEnviado\uDB40\uDC40\uDB40\uDC31\uDB40\uDC30\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E"
+  },
+  "ProductShow": {
+    "addToCartLabel": "\uDB40\uDC3CAÑADIR A LA CESTA\uDB40\uDC40\uDB40\uDC37\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "qtyLabel": "\uDB40\uDC3CCantidad: \uDB40\uDC40\uDB40\uDC37\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E"
+  },
+  "Special": "\uDB40\uDC3CEspecial\uDB40\uDC40\uDB40\uDC31\uDB40\uDC30\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+  "desc": {
+    "1": "\uDB40\uDC3CCada droide está equipado con un SyntheTech AA-1 VerboBrain, lo que los hace capaces de almacenar enormes cantidades de información, el espacio de memoria adicional se utiliza a menudo para mantener los módulos de comunicación en la memoria activa para evitar largos retrasos mientras se busca información lingüística en la traducción media. Un módulo de comunicaciones TranLang III les permite tener fluidez en más de seis millones de formas de comunicación. También tienen las habilidades necesarias para analizar rápidamente nuevos idiomas no registrados y traducirlos a otros más conocidos.\uDB40\uDC40\uDB40\uDC31\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "10": "\uDB40\uDC3CEl droide astromech de la serie R3 presenta gran parte del mismo hardware que su predecesor, la unidad R2, que carece sólo del sensor de video extensible del droide anterior. El chasis del R3 es en gran medida cilíndrico, apareciendo como un tubo vertical con un cono corto y truncado en su base. Manteniendo el droide erguido son dos patas estrechas, cada una de las cuales termina en un pie pisado en forma de prismas trapezoidales, una tercera pierna está alojada dentro del cuerpo del droide y podría extenderse cuando sea necesario para proporcionar una mayor estabilidad. Tapar el diseño de la unidad es una cúpula resistente, giratoria, plastex o transparisteel. El astromech está sellado para permitir la funcionalidad en el vacío del espacio.\uDB40\uDC40\uDB40\uDC32\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "11": "\uDB40\uDC3CEl caza estelar T-70 X-wing es un caza cruciforme de 12,48 metros de longitud con una capacidad máxima de un solo piloto y droide astromech cargado de fondo, que encaja en una toma de corriente y se puede configurar de forma variable para diferentes modelos. Si es necesario, el droide puede volar el caza estelar sin la ayuda de un piloto, e incluso puede hacerlo remotamente. El ordenador de ataque del buque, los controles de vuelo y otros instrumentos esenciales de pilotaje se encuentran dentro de un módulo blindado de cabina, en virtud del cual un ordenador de vuelo extraíble refrigerado por líquido ayuda aún más al piloto en las operaciones basadas en buques. Existen paneles de acceso para el acceso y almacenamiento de computadoras dentro de la «nariz» del buque, junto con un generador auxiliar y un área de almacenamiento que normalmente se utilizan para guardar equipo de supervivencia. Una pequeña ventana del sensor marca la ubicación de la matriz de sensores primarios de la nave en la punta misma de la nosecone, ubicada detrás de una baliza de emergencia. Detrás del piloto, un sistema de soporte vital incorporado permite al ocupante respirar en una atmósfera oxigenada.\uDB40\uDC40\uDB40\uDC32\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "12": "\uDB40\uDC3CConocido cariñosamente como un «hueso de control» para los pilotos de la Alianza Rebelde y Nueva República, el caza estelar de ala Y se despliega como un caza-bombardero, diseñado para abrirse camino hacia su objetivo, entregar su carga útil de explosivos de alto nivel y luchar para salir de nuevo. Su armamento incluye dos cañones láser, dos cañones de iones y dos lanzadores de torpedos de protones. Un droide astromecánico, como una unidad R2, se puede conectar a un enchufe detrás de la cabina para actuar como copiloto y administrar los diversos sistemas de la nave.\uDB40\uDC40\uDB40\uDC32\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "13": "\uDB40\uDC3CUn droide bastante bueno para coordinar ataques. No es bueno en la lucha, solo bueno en la planificación.\uDB40\uDC40\uDB40\uDC32\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "2": "\uDB40\uDC3CDiseñados para mantener los usuarios, los droides de pit son asequibles y duraderos. Los droides de pozo se encuentran a una altura de 1,19 metros, pero tienen la capacidad de plegarse en una forma compacta cuando no están en uso. Esta característica se puede alternar tocando su nariz.\uDB40\uDC40\uDB40\uDC31\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "3": "\uDB40\uDC3CEl modelo de droide 2-1B es muy avanzado e inteligente con su programación siendo aún más avanzada por algunos de los mejores médicos de la galaxia en la Academia Médica del Estado Rhinnal, que también integran procesadores heurísticos. La característica más útil de los droides 2-1B es la facilidad con la que los propietarios pueden actualizar su programación y apéndices. Un droide 2-1B puede convertirse fácilmente en un especialista en neurocirugía, podología, pediatría, reemplazo cibernético de extremidades y biología alienígena con un viaje a un centro de servicio certificado.\uDB40\uDC40\uDB40\uDC31\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "4": "\uDB40\uDC3CUn droide de guerra cromado maltratado, IG-88 tiene 1,96 metros de altura. Su constante puntería, junto con su habilidad para rastrear objetivos con sensores avanzados que le hacen sonar la cabeza y le permiten ver en todas direcciones, le ganan un gran éxito. Estos sensores incluyen múltiples fotorreceptores rojos, un sensor de calor, y un sensor de sonido IG-88 también tiene un vocoder en la base de su cabeza. Su torso es capaz de girar completamente en el campo de batalla, lo que le permite disparar enemigos en todos los lados. Su cuerpo de metal duro le permite sobrevivir a la mayoría de los ataques sin sufrir ningún daño y cuenta con servo cables a prueba de ácidos.\uDB40\uDC40\uDB40\uDC31\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "5": "\uDB40\uDC3CSe han añadido varias características nuevas a la estructura original de Sphyrna, incluyendo dos módulos adicionales montados en el puerto y estribor de la nave, seis módulos de escape en lugar de la bahía de carga, y una cuarta unidad subluz montada en la parte superior de los tres principales, lo que le da suficiente potencia para mover por sí sola a un discapacitado Destroyer Estrella. 315 metros de longitud con una aceleración máxima de 900 kilómetros por hora. Equipado con un sistema hiper drive.\uDB40\uDC40\uDB40\uDC31\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "6": "\uDB40\uDC3CDiseñado para ayudar con las reparaciones a bordo, el droide de reparación G2 de segundo grado es de baja estatura, de 0,8 metros de altura. También está en cuclillas, con una postura ancha y pesada que lo obliga a caminar cuando camina. Estos rasgos, combinados con su cuello largo y multiarticulado y pies extensamente espaciados que distribuyen el peso, le dan el apodo de «droide del ganso». Cada unidad G2 tiene un marco esquelético destripado, de color plateado y latón con juntas expuestas y cableado, con un borde de color. Los manipuladores pesados de tres dígitos del droide pueden agarrar la mayoría de las herramientas de reparación, mientras que los pies extensos ayudan a estabilizar su bajo centro de gravedad y le dan al G2 estabilidad extra cuando se trata de equipos grandes y pesados.\uDB40\uDC40\uDB40\uDC31\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "7": "\uDB40\uDC3CCon 150 metros de longitud, cuenta con dos torretas de turbante dobles y cuatro simples, y tiene la capacidad de alcanzar una velocidad máxima de 950 km/h. Según Luke Skywalker, algunos barcos CR90 equipados para combate pueden ser equipados con seis turbolasers dobles. Capaz de llevar toda una escolta diplomática, tiene una capacidad de pasajeros de cientos. Aunque los barcos no están construidos como portaaviones, tres interceptores de ala A RZ-1 se pueden unir a los anillos de acoplamiento, lo que permite una pequeña escolta. Sirven como la columna vertebral de la rebelión temprana y la Alianza. Aunque no están especialmente armados, los CR90 poseen suficiente potencia de fuego hacia adelante para destruir un crucero de clase Gozanti con bastante facilidad.\uDB40\uDC40\uDB40\uDC32\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "8": "\uDB40\uDC3CLa 74-Z Speeder Bike es capaz de alcanzar velocidades de hasta y más allá de quinientos kilómetros por hora, y tiene un techo de vuelo de veinticinco metros. 74-Zs son la variante militar del civil 74-Y. Están controlados por el manillar situado hacia la parte delantera del vehículo, y los pedales que se cuelgan debajo ajustan la velocidad y la altitud. Los vehículos altamente maniobrables están equipados con sensores y dispositivos de comunicación ubicados entre el manillar, incluyendo un comlink y un dispositivo de interferencia comlink. El velador está equipado con sensores de seguimiento de la tierra que se conectan con el HUD en el casco del conductor. Están armados con un cañón lanzador giratorio hacia adelante para el combate.\uDB40\uDC40\uDB40\uDC32\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "9": "\uDB40\uDC3CMidiendo 5,47 metros de longitud, el ETA-2 es un caza estelar altamente maniobrable orientado al combate y es más rápido que su predecesor Ethersprite, con motores de doble iones que proporcionan una aceleración máxima de 5.200G y una velocidad máxima de 1.500 km/h. El Eta-2 cuenta con alas con paneles de radiador superior e inferior, S-láminas, que se abren para eliminar el exceso de calor de los motores del barco. Las alas del radiador se abren principalmente durante un intenso combate. Para la defensa, la nave contaba con dos cañones láser y dos cañones de iones. A diferencia de los cañones láser, los cañones de iones de la nave disparan ráfagas de plasma que causan interrupciones eléctricas temporales a su objetivo al impactar.\uDB40\uDC40\uDB40\uDC32\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E"
+  },
+  "title": {
+    "1": "\uDB40\uDC3CEmbajador espacial 3P0\uDB40\uDC40\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "10": "\uDB40\uDC3CDroide de la serie R3\uDB40\uDC40\uDB40\uDC31\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "11": "\uDB40\uDC3CT-70 X-Wing\uDB40\uDC40\uDB40\uDC31\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "12": "\uDB40\uDC3CLuchador Y-Wing\uDB40\uDC40\uDB40\uDC31\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "13": "\uDB40\uDC3CDroide súper táctico\uDB40\uDC40\uDB40\uDC31\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "2": "\uDB40\uDC3CDroide de la serie DUM\uDB40\uDC40\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "3": "\uDB40\uDC3C2-1B Droide quirúrgico\uDB40\uDC40\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "4": "\uDB40\uDC3CIG-88B Droide\uDB40\uDC40\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "5": "\uDB40\uDC3CEsfirna Corbeta\uDB40\uDC40\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "6": "\uDB40\uDC3CG2 Reparación Droide\uDB40\uDC40\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "7": "\uDB40\uDC3CCR90 Corbeta\uDB40\uDC40\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "8": "\uDB40\uDC3CBicicleta Speeder 74-Z\uDB40\uDC40\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E",
+    "9": "\uDB40\uDC3CInterceptor ETA-2\uDB40\uDC40\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC35\uDB40\uDC31\uDB40\uDC3E"
+  }
+}
