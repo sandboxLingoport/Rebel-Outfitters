@@ -7,8 +7,8 @@
     "vehicleTitle": "Tous les véhicules"
   },
   "Cart": {
-    "cartTitle": "Panier",
-    "checkoutLabel": "CAISSE",
+    "cartTitle": "Purse",
+    "checkoutLabel": "Visa",
     "closeAlt": "Fermer le panier",
     "deleteAlt": "Supprimer l'article du panier",
     "noItemMsg": "Aucun article dans le panier.",
