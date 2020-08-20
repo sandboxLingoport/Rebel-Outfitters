@@ -52,7 +52,7 @@
         "vehicleTitle": "All Vehicles"
     },
     "Checkout": {
-         "payNameLabel": "Payment Method",
+        "payNameLabel": "Payment Method",
         "checkoutTitle": "Checkout",
         "shipSectionLabel": "Shipping Info",
         "firstNameLabel": "First Name",
