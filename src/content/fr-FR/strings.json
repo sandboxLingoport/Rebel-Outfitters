@@ -7,6 +7,7 @@
     "5": "Sphyrna Corvette",
     "6": "Droid de réparation G2",
     "7": "CR90 Corvette",
+    "_LRM_RESEND70":" LQA-||masnes@lingoport.com||'Vélo Speeder 74-Z' should have the speeder removed.||Vélo 74-Z",
     "8": "Vélo Speeder 74-Z",
     "9": "ETA-2 intercepteur",
     "10": "Droid série R3",
@@ -85,6 +86,7 @@
     "addToCartLabel": "AJOUTER AU PANIER"
     },
     "Cart": {
+    "_LRM_RESEND673":" LQA-||masnes@lingoport.com||'Chariot' should end in 'e'||Chariote",
     "cartTitle": "Chariot",
     "noItemMsg": "Aucun article dans le panier.",
     "deleteAlt": "Supprimer l'article du panier",
